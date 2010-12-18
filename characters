@@ -1,0 +1,32 @@
+school adults:
+-----------
+mr metal
+teachbot
+mathguy
+adminlady
+
+students:
+-----------
+prota
+(lonely)
+cuteboy
+barack
+lamar
+sarah
+twin1 (not actualy twins)
+twin2
+
+other:
+-----------
+prota's mother
+king
+humanity
+humanity corps:
+    description: its policies and history are complex and important enough to merit inclusion as a character
+    size: 10 students per year, 5 year program (still early in its life.  overstaffed in comparison.)
+    conflicts:
+        - protesters (neoluddites, some religions)
+
+mexico:
+-----------
+victim kid
