@@ -1,0 +1,3359 @@
+﻿[[
+  This document is Copyright (c) 2008-10, Martin Chase, some rights
+  reserved.  You may use the content under version 3.0 or later of the
+  Creative Commons Attribution-ShareAlike-NonCommercial license,
+  available at:
+    http://creativecommons.org/licenses/by-nc-sa/3.0/
+  Martin can be contacted through «mchase@freegeek.org»
+]]
+
+------
+Story: Survival of the Funnest
+
+
+
+---------
+Prologue: 6 years ago 
+
+A young girl, not yet past [:OR: struggling to adapt to the changes
+of] the worst of her pubescent years, comes into the large convenience
+store looking down and mumbling to herself.  A middle-aged, immigrant
+clerk barely glances at her in between customers, but after her back
+is turned, makes a little chirpy, tooth-sucking noise to catch the
+attention of his fellow, a young woman busily re-stocking the pharms
+shelves.  They share an exchange of grave expressions.  The young girl
+walks around the isles, feigning indecision.  The second clerk, a
+nametag designating her as Moll, does her best to keep the corner of
+her eyes on the distorted reflections cast by the chromed strips on
+the ceiling while positioning herself somewhat closer to the young
+girl.
+
+The mumbles are still nearly inaudible, but faint touches of a
+plaintive, desperate tone can be discerned across the walls of
+shelving.  The girl's reflection can be seen lightly fumbling molded
+chocolate figures about their paper trays, looking at them
+noncommitally.  One critical detail escapes the notice of either
+clerk, though: the girl's doll of a soft, plasticy material,
+predominantly purple-colored, cartoonishly noble thing, cranes its
+head around and stares up at the reflection of the stalking clerk.  A
+popular toy line, ubiquitous among children her age, and otherwise
+completely unnotable.
+
+A customer asks the Moll where to find a product, but in the time
+taken to give her quick reply, Moll is relieved to find that the young
+girl seemed not to have moved.  Shortly thereafter, at a moment when
+Moll's attention on the girl is perhaps overly obvious, an urgent,
+"Now!" is whispered, and the young girl brings her hand, still holding
+a piece of the candy, down close to her side and starts to walk toward
+the door.  The clerk is exactly positioned to step out in front of the
+girl and demand, "Okay now, you little thief, give it to me."
+
+The girl is already terrified, almost on the verge of tears.  Her
+mumbling turns to incoherant babbles.
+
+"Come on!  Give me what you were stealing."
+
+"B-but, I-I-I d-don't...", the girl manages as she starts to turn out
+her pockets, revealing lint and trash, but no stolen mechandise.  The
+clerk intrudes to open her coat and pat down her sleaves, waistband
+and other potetial hiding spots, making the search rather thorough.
+The girl is tossed about throughout the manhandling, but makes no
+protest.  Even the toy gets a bit of a groping.  While no service
+panels are present - the device only has a single magnetic charging
+panel - the clerk's forceful squishing fails to reveal any suspicious
+lumps.
+
+"Oh, no.  I watched you grab that chocolate.  Where did you hide it?"
+
+The adolescant turns and points a shaking hand at the shelf a meter
+back, where a misplaced shape can be seen as the very piece of candy
+she had started walking away with.
+
+"Get out.  I don't want to see you back in here again, or I'll turn
+you in to the police, you hear?".  The clerk's anger is genuine,
+though she keeps her sympathy and pity hidden.
+
+The young girl walks out quickly, then starts to run until she is out
+of sight of the store.  A bit more walking, and she turns into an
+alley to hide herself.
+
+"Hurry, now.  You must eat it before the magic wears off.", the voice
+of the toy has taken on a much fuller body, like one of those voice
+actors paid to describe movies as "the most epic tale in all of
+history".  He is now very clearly a regal and confident ruler,
+overplayed almost to the point of mockery.
+
+The girl's voice is still tinged with fear, "I don't want -".
+
+"NO!  If you don't eat it now, the evil sorceress will steal your
+powers and I will be captured.  Our kingdom will crumble if you fall
+under her evil spells.  This is the only protection."
+
+Her eyes refuse to look at her companion, unconsciously wary of the
+additional influence his expression could assert over her, "...b-but
+it's...I-I -".
+
+Now the toy's voice is fierce and demanding, "I order you to take it
+out of your nasty little hole and eat it.  Right NOW!"
+
+
+
+------
+Entry: 2088-07-08
+Tags: Introduction, Logbook
+
+Hi, I'm Prota.  If you are reading this and are not me, then either
+you broke into my personal possessions and cracked my password, I've
+been found dead and you're trying to decide whether it was a gruesome
+murder or a depressing suicide, or I've fallen in love, letting you
+into my heart, and of course all data relevant to understanding me
+totally, so we can live together happily till the end of our days.
+
+I'm betting on the first case, but I won't rule out the other two.
+
+Well, then, here it is: my introspection log.  Apparently this is
+supposed to help me "learn and grow as a person", and there will be a
+class once a week to help us use them.  This log book is recording my
+heart rate and other "emotional cues" while I write.  See the
+graph-looking symbol, there, in the corner.  Right now it says it's
+"Calibrating Biometrics...", which probably stands for "Figuring out
+if you're being extra bitchy today, or if this is your baseline and
+are capable of much greater feats of unpleasantness".  Don't worry,
+little log book, I won't hurt you.
+
+This is as much a uniform as they have here - everone has their little
+typing sensor wristbands and cursor rings strapped on, fingers
+thumping against legs or tabletops, and their logbook display propped
+up in front of them on their desk.  It's just as mindless as if we
+were all marching along with rifles strapped to our backs.  They could
+probably switch them all around so that the screen each person was
+looking at had its typing coming from someone else's hands, and nobody
+would be able to tell the difference.  (Note added 2089-02-12: Yep,
+and I would have been in the same boat as everyone else.  Since when
+was being a sarcastic little jerk about everything *not* a cliche?)
+
+
+
+
+
+
+So, what now?  I'm suppose to write about parts of myself I want to
+get to know better.  I'm not really that nice, I'm not a genius at
+anything, I've never made anything interesting, and the only thing
+about me I can claim to be very unique is having been the slave of a
+now-infamous toy.  Yeah, I don't see how that makes for a compelling
+case to want to get to know me better unless you're some weirdo BDSM
+freak.  "Secret Thoughts of a Cyber Sex Slave Teen".  Okay, that
+probably would sell out, fucking pervs.  But who knows though, right?
+I may surprise myself and have virtuous or even pleasant
+characteristics hidden somewhere.  I did sign up for this Humanity
+Corps program, the better of the post-high-school choices I had:
+getting a shitty job and maybe living with my dad, joining the
+military, going to community college and getting to stay with my mom,
+or some possible combinations of the three.  The Corps is a kind of
+military, but where you don't have to shoot people, and it includes
+free classes.
+
+Look, see!  There's my first identifiable positive character trait:
+given the chance to arbitrarily kill people or join a
+computer-worshipping cult, I choose to promote life even at the cost
+of my individuality.  Why doesn't anyone else see past my thick,
+protective shell of disdain to the caring, gentle soul within?
+
+Ah, look down there now.  It says I am "internally conflicted, upset,
+possibly sarcastic".  Those biometrics sound pretty calibrated to me,
+and I can tell I'm going to learn *so much* about me with this.
+
+(Tags added 2088-12-10: Stubbornness)
+
+
+------
+Entry: 2088-08-02
+Tags: Classes, Work, Dorms
+
+Four days of classes, two days of facilities labor, one day of free
+time.  Repeat ad pukeum.  The work/school days are really long, too:
+10 hours, each, not counting homework.  Today I am supposed to be
+working on grounds keeping, which is a dumb name for the job since the
+school doesn't actually have any grounds.  I walk around every
+building, picking up litter, I cart the big bags of recycling from
+hallways to dumpsters, and I occasionally wash down signs and windows.
+They do have a garden on the roof of one of the classrooms, which I do
+end up watering.  This is a step up from janitorial, which I do on my
+other workday.
+
+Anyway, I decided I should take a break.  No public terminals set up
+it the alley with the trash compactor, so I'm limited to this thing
+and my phone, but I'm not in the mood for micro-entertainment.  First
+thing I'll do is re-read all my previous entries, to get to see what
+kind of person I am.  ...  Okay, that was great.  Nice to meet you,
+Prota.  Now what?
+
+All right, what has changed in the last three weeks?  How have I been
+adjusting to my new life?  And of course, have I grown yet as a
+person, moving inextroably toward the great ideal of mature adulthood?
+
+I don't know.  The teachers here put on great performances they call
+"classes".  They're always bubbling over with artificial excitement
+for their doctrine of rationalism.  I don't even know what that means,
+except that it requires being excited to spread their ideas to the
+fertile meme-soil of their student's minds.  I thought this place
+would have more to do with the all-powerful Humanity AI, but nobody
+has so much as mentioned it.  They may not be all-out worshiping it in
+front of us yet, but it must be coming soon.  I had heard rumors that
+the Corps like to keep things from their students in the beginning.  I
+think they're playing up "rationality" now until we're hooked on it,
+and then they just show us how it obviously leads us into seeing that
+"computers are the ultimate source on what is rational".  Whatev.
+
+
+
+
+
+
+
+
+
+The sleeping arrangements here are messed up.  A few dozen bunk rooms
+sleep everyone staying on campus, which includes all the students and
+apparently even a few of the teachers.  The rooms are weirldy spread
+out all across campus, and are sometimes just regular houses the Corps
+have decided to occupy out in the regular city.  I guess they just
+hadn't planned on needing to house anyone when they designed the
+campus, and so tacked on beds wherever they could find space.  Not
+only that, but nobody from my class is in my room, like they can't
+even get it together to clear out a full room at a time.  My room is
+all girls, though some of the others are coed - that much I got to
+choose between.
+
+(Note added 2008-??-??: Should have seen this as being intentional,
+but I had no experience yet with how devious they were.)
+
+Oh, and each building is named for some kind of human virtue.  My dorm
+is in the Patience building, and that's not even one of the bad names.
+
+Things aren't very social here; most of the time anyone spends in the
+dorm is spent sleeping, and that isn't very much.  Studying happens in
+the libraries and computer labs, and most people do their casual
+hanging out at Respect [MC: or something to do with communication?]
+Cafe, at which we can use our food credits to get coffee.  I get
+questioned in the mornings sometimes as people are getting ready,
+things like how much the classes have covered so far or how I feel
+about the teachers.  I think they're trying to fondly remember their
+own tender and ignorant first year experiences.
+
+On the plus side, my dorm room is really close to my classes, my bunk
+has a window, and things are quiet enough, especially in the
+afternoons, that it almost starts to feel private.
+
+Everybody has four mandatory classes: Ethics, Logic, Probability, and
+Evolutionary Psychology.  Also, I had to pick one of the "practical"
+classes, so I'm also taking Metalcrafting.  Then there are a bunch of
+optional "Birds of a Feather" clubs that all sounded pretty dorky.
+
+(Note added 2088-??-??: I think my aversion to the clubs was both from
+not wanting to show any modicum of enthusiasm and from not wanting to
+belong to any groups small enough to be able to get to know me.)
+
+Metal shop is actually my favorite class, if only because the teacher,
+Mr. Metal, acts like a real person.  He's got some nasty scars on his
+arm which look like his entire arm was torn off and chewed on a bit
+before being shoddily grafted back to the gnarled stump of his
+shoulder with duct tape.  He said most of that himself.  He runs a
+really strict shop, with enough rules to govern a small country, but
+they're straight-forward and well-posted on every piece of equipment
+they pertain to.  You would be surprised how much text you can fit on
+a pair of tin-snips.
+
+
+(Note added 2088-??-??: The arm thing turns out to have been a pretty
+cool story, though a bit stupid on his part.  While he was a student,
+engineering or whatever, he had a group of friends he would get
+together with to play with cybernetics.  I don't know what kind of
+setup they had for this, just that they were making brain-machine
+connections, mostly on mice.  Their most successful project had been
+getting the mice to be able to pilot remote controlled cars.
+
+
+
+
+Inevitably, he and his friends wanted to try it on themselves, and
+Mr. Metal volunteered.  They gave him the same rig as the mice, and he 
+said it worked fine.  It was only that the climax of an RC car zooming
+around wasn't exciting enough, so they hooked it up to a real car.
+His eyes got really wild while he was describing this part.  He said
+it felt like he *was* the car, which was alien and clausterphobic, but
+absolutely exhilerating.  Not only was it fun, but he was also a much
+better driver for it and got jobs for a while as a stunt driver.
+
+His body apparently had to be in a kind of sleep paralysis while he
+controlled the car, and one time he was competing in a derby and he
+got in the car but mis-strapped his body in.  His spastic driving
+jolted loose his upper torso, and one of his arms ended up dangling
+out of the window.  It was smashed in between his car and another and
+mostly severed, but he didn't notice it until afterwards.  He said he
+had still felt the pain when it happened, but had thought it with the
+car that got hurt, which was taking a beating of its own.
+
+[:MC: this is kinda dumb and pointless])
+
+I like that I always know what needs to be done and I can just do
+actual work.  No bullshit message about how he thinks the world should
+be run, just his shop, an island of Mr. Metal, which makes stuff.
+Every now and then, he'll tell a story of the nasty accidents that
+come about from not following the rules, and you can tell he's telling
+the truth by the details you wouldn't expect but that make perfect
+sense.  Like the smell being different for really deep burns that get
+to cooking fat and muscle, or the brief shiny white of skin flayed too
+quickly for blood to start seeping out.  I like his stories, though
+they gross some people out.  He probably gets a kick out of seeing
+people squirm, which I guess is a little cruel, but it feels so much
+more human than the cheerleaders that teach the regular classes.
+
+Being sort of an elective, this class is the only time I ever sustain
+contact with the conscious older students.  The contact is far from
+quality, though.  They all seem much busier, despite not having
+kitchen, sanitation or grounds duties.  I don't know what they're
+scheduled for, but I rarely see the same student older than me come to
+class for more than a week.  There's just this air about them of
+stress or even panic, like they have to learn to weld to save drowning
+kittens.
+
+The workshop seems to handle their desperate consumption of the
+training alright.  We have a constant supply of the basic work they
+need, building Rocket Stoves.  These are scrap metal shaped to
+efficiently burn biomass fuel in developing rural areas.  The older
+students rarely move on to the more advanced stuff to do with fixing
+broken pipelines or tractor parts, much less onto the laser-etching or
+fabrication (I haven't done those, either).
+
+What else?  Logic and Probability are both really heavy with math
+stuff.  It gets a little overwhelming, but the pace is slow enough
+that I haven't fallen behind.  One neat thing about the classes is
+that a few times already, problems we're working have moved around
+from class to class.  This happens mostly in the direction of from 
+EvPsy and Ethics over into Logic or Probability.  That's kinda cool,
+to see things from different angles like that.
+
+Oh, and we're supposed to call each other "comrades".  Not students or
+members or co-workers or corpsmen or people or guys or amigos or
+associates or [...].  Comrades. [MC: dumb]
+
+It's dark out now, so my shift is probably over.
+
+------
+Entry: The Bybol
+
+Today in EvPsy I learned that I'm a natural born rationalist, or
+something.  A little background first.  After the explosion of
+excitement to do with my being abused, my mother settled into strict
+adherance the doctrines of The Church.  All of them, one after
+another.  She dragged me along and had prayer healings and vigils in
+my name.  I hated the attention, I hated all of their great big grins
+hiding the confusion, pity and disgust they felt whenever they heard
+my story, and I hated most of all the idea that their prayers were
+going to help me.  They didn't.
+
+I finally committed blasphemy around the time the dozeneth of these
+churches had passed me through their fires of redemption,
+retroactively cleansing me of all sin and demonic possession.  A few
+days later I was, I don't know, talking back to my mom while we ate
+dinner or something, and she started praying.
+
+"Stop it!", I remember yelling, "There's no stupid god to save me,
+mom.  All your churches ever do is embarass me into smiling nice and
+shutting up.  That's not getting 'better', that's ignoring how I
+actually feel."
+
+I don't really remember the rest of the conversation, but later that
+night, I wrote up a note to brandish on my door:
+
+The Bybol
+1. Everything on this paper is absolutely true.
+2. No questions allowed.
+3. Prota is supreme ruler of all she surveys.
+4. The only way to help Prota is to do what she says.
+5. All other churches are lying and will not be tolerated.
+
+That's not exactly what I wrote, but it's close enough.  I was what,
+14?  15?  My mom tore it down, and she kept forcing me to go to church
+with her, and I just shut up about it and went.  I never even tried to
+believe after that; I never again hoped that their prayers would make
+me forget what King had done to me.
+
+Right, so in class today, the teacher was going on about psychological
+biases and how these "cognitive bugs" have been taken advantage of
+historically.  She had just described our bias [which bias, exactly?]
+when I raised my hand and interjected, "So you could take advantage of
+that by writing down 'Everything on this paper is true'?"
+
+"Very good, exactly!  This is the fundamental premise of nearly every
+religion surviving into the present."  She was beaming at me, gobbling
+up the thought that I was "breaking through" into rationality.
+
+I placated her, "And of course it helps to add an extra 'No questions
+allowed.'  clause."
+
+"Yes, I like this example.  Does everybody else understand what Prota
+just described?  Here, let me draw it up and show the ways it
+simultaneously exploits our curiosity, our feeling of powerlessness
+and need for authority, and our difficulty in understanding
+recursion."
+
+Yeah, so I don't really speak up in class very often, and this
+probably made her week.  I'm glad I'm not a teacher, having to depend
+on students for validation like she does.  Some people just don't want
+to help themselves, and no amount of teaching can fix that.
+
+
+------
+Entry: Biases
+
+It turns out I'm all sorts of awesome when it comes to not being
+biased.  The one today, Status Quo, was like the opposite of how I
+think.  All those sheep-headed, do-what-my-friends-do popular kids
+acted like they understood what it meant, but they all went through
+high-school by attaching onto the biggest group of friends that would
+tolerate them.
+
+(Note added ??: I did too, but my group only had two people in it.
+Same social pressures pushed us around, we just sucked more at dealing
+with them.)
+
+(Note added ??: No, I understand this less than I thought, I think.
+This is the bias that says you want to not raise a fuss, to not make
+waves.  It's the violently anti-social crowd who don't adhere to this
+bias, not the quietly ignored types.  They mostly used science or
+media examples when they were explaining this, not high schoolers, but
+analogous situations come up.  So yes, I was guilty of it, no, it
+wasn't about acting the same as my friend, and no, I can't just ignore
+it and hope it isn't there.)
+
+
+------
+Entry: Purchasing
+
+I've never even had a chance to *see* these biases before, much less
+have them.  Stock market decisions?  Uh...  I don't think buying
+spagetti is the same.  How is me buying my noodles from one brand or
+another going to make it easier or harder for someone else to buy the
+same, unless I buy the last bag.  Which, okay, means there's some
+miniscule change in the probability that they will get the noodles
+they might have otherwise wanted, but won't the shop just get more in
+that time?  Are people going to buy all the noodles they can possibly
+buy because of the off chance that someone else might one day buy the
+last bag of noodles?  This is a stupid thing for us to be learning,
+too.  Are we going to end up volunteering on wall street, helping out
+misguided stock brokers?
+
+
+------
+Entry: More Irrelevant Biases
+
+Maybe our EvPsy teacher just isn't very good at explaining these
+things, but more and more of of the biases she talks about have
+nothing to do with real life.  She comes up with really covoluted
+examples that sound nothing like what the actual research says, or
+asks us to "think of ways we might manifest this bias", but we never
+do.
+
+Okay, "selection bias".  I'm supposedly going to pick my evidence
+based on my preconceived desires.  How the hell am I supposed to pick
+my evidence?  Do I just selectively ignore reality?  And I'm not a
+research scientist!  Why would I have preconceived desires about a
+science question even if I were?  Like, do scientists break up into
+factions about what the truth is?  Is that why they say you can find a
+study to contradict any other study?  What good are scientists if
+they're just a bunch of lying, warring clans?
+
+
+------
+Entry: Fired
+
+Okay, I guess they notice when you don't do any work for two days in a
+row.  I can't really say I'm surprised.  They don't really fire
+people, though, they just chew us out and then move us in to more
+closely supervised positions.  I work the cafeteria now.
+
+Food work is fine, better than grounds-keeping, actually.  It's a lot
+bigger and better equipped than the pizza place I worked in last year,
+but I don't actually touch anybody's food.  Well, not that they're
+going to eat any more.  I do dishes, clean up the floors, fill the
+drink machines (which is only containers that I ever touch) and move
+boxes around.  Rotating, is what that's called.  It happens twice a
+week when a new shipment arrives, and I work on one of those days.
+
+I actually like the food here, I should say.  It's not so completely
+crappy that a vending machine would carry it, and it's not the bland
+nutritive blends we had in high school.  There's a salad bar, too,
+which I've been loving.  Peas, garbonzo beans and hard-boiled eggs
+over spinach with some italian-ish dressing.  Mmm.  I'm glad we get
+food that's this decent, or I wouldn't be eating much at all.  My mom
+doesn't think too highly of my choice to be here, and my dad is still
+a deadbeat about everything, which doesn't leave me with much of a
+budget.  I still have a few hundred dollars saved from the pizza job,
+but that would be eaten up pretty fast if I went out to eat more than
+once a month.
+
+We don't have to pay for tea or coffee, either.  The foofy drinks are
+still real money, but they somehow got all our basic beverages
+subsidized.  These Corps are pretty weird in that way.  I don't really
+know where they get their money.  I've heard that they aren't actually
+a non-profit, that they get paid for some of the services they
+provide, but I see no evidence to support that claim.  Rocket stoves
+are useful and all, but the people who need them aren't going to have
+much by the way of money to pay for them.
+
+
+------
+Entry: Contrary
+
+Today's EvPsy was hilarious.  The teacher painted herself into the
+corner and showed conclusively that not only is what she's teaching us
+worthless, it actually ends up hurting us to know it.  I can't even
+remember what she called it, but I was calling it the "Bias Bias",
+although I think it would be more accurately referred to as the
+"Having-Taken-EvPsy Bias".  People who know about their own biases act
+even worse in their attempts to adjust themselves.  Plus, they're more
+likely to accuse other people of being biased and feel righteous about
+it.  By her own admission, we're being turned into over-compensating
+jerks.  Whoever put this class together really wasn't thinking much.
+
+(Note added ??: So I'm actually thinking about this now, instead of
+just making fun of it.  Without knowing about our biases, we would
+have no ability to correct for them.  Knowing that we over-compensate
+allows us to better gauge how far we need to push ourselves.  It also
+lets us know how important it is to re-check everything over and over,
+to see whether or not our behavior is actually working.  She just
+didn't do a good job telling us about it.  She should have said,
+"Warning, you are going to try to do more than you have to and end up
+worse than you started.  Please don't just take these biases as
+reasons to behave differently; take them as reasons to look critically
+at how much your behavior diverges from rationalism.)
+
+
+------
+Entry: Friends
+
+Did I mention that I started hanging out with real live people last
+week?  My letters to Jessica have been getting shorter and shorter.
+Hers, too.  It's not interesting anymore that her professors are
+giving her too much homework, or that she's met a boy who really
+understands her, just as it's not that interesting how I helped
+trick a girl into justifying genocide.  We aren't ending our
+friendship or anything, we're just not using it right now, I think.
+
+There are a few of the guys in my class that tend to get my jokes and
+generally act a little more cynical about everything.  CuteBoy, Sarah,
+Barack and I started eating together at the cafe after EvPsy.
+CuteBoy's the one who was over-stressing about rape, but he's also
+pretty cool.  I think he would be happier just helping people instead
+of taking these fucked up classes.  Sarah looks like she learned to
+dress while at war with her entire high school, all spikes and
+insignia on top of armor and hidden pockets.  She listens to some good
+music, which is where all the patches and logos she wears come from.
+Barack is a shrimpy guy that I bet was into collectible cards or role
+playing games.  Not that I think that's a bad thing; he just comes up
+with oddball, fantastical stories for everything.
+
+So yeah, we eat and we badmouth everybody, especially the teachers.
+They aren't really thrilled to be here, either.  Same basic story as
+me: they didn't like any of their other post-high-school options.  We
+even end up kinda helping each other with homework and stuff.  It
+isn't the same as things were with Jessica.  She and I had a bond,
+like a vegetable garden growing in the middle of a swamp.  (Note added
+??: Man...  My metaphors are all so screwed up.)  Still, I'm glad I
+get to talk to other people about things.
+
+
+------
+Entry: Rational Bots
+
+Bleh.  They're trying to turn us into perfect rational agents, like
+the ideal probability-assigner from Probability class.  On one side,
+we learn the pure and perfect math we will need to use to make
+decisions (instead of, you know, basing decisions on what we *want*),
+and on the other, we learn all the ways we will fail at implementing
+that math in real life (because of all the things we, you know,
+*want*).  The end result: purposeless, emotionless robots.
+
+(Note added shortly thereafter: Oh, no, they give us purpose.  We get
+to hear in Ethics what is right and good and worthy of our energy.  So
+that means we get to be /righteous/, emotionless robots.)
+
+(Note added a day later: Which might not be such a bad idea, actually.
+I'm not really thrilled about most of my emotions, so getting rid of
+them would, for the most part, be a blessing.  That still leaves me
+being a soldier without a will of my own, but at least it won't feel
+bad.)
+
+(Note added many months later: There really isn't a call to strip us
+of our emotions.  Perfect rational agents are the most capable of
+getting the things they want.  Rationality is a tool, but it needs to
+be separated from our messy inner worlds to work.  Ethics class wasn't
+to tell us what we want, it was to help us figure it out.)
+
+
+------
+Entry: Meltsy
+
+I saw one of the older guys, CryGuy, turn into a puddle of pathetic
+this afternoon in metalshop.  I have no idea how it started or what
+triggered him.  I only noticed when I heard him gently sobbing.  I was
+[doing stuff] on the lathe [for some thing], and he was right near me
+working on [some other thing].  I had set him up earlier in class and
+answered a question or two, and he had seemed completely fine then.
+
+By the time I heard him sobbing, the guy next to him, GuyName, had
+already walked over and was patting him on the back, saying somehing.
+GuyName has been in class for the entire semester with me.  He looked
+up and I caught his attention, my eyebrows raised to ask if everything
+was okay.  He gave a shrug, then helped CryGuy out to the hallway.
+Mr. Metal didn't seem to notice any of this.
+
+It got worse, though, when we heard CryGuy screaming from the hallway.
+Mr. Metal heard that, and a few of us all went to the double-doorway
+to see what was happening.  CryGuy was sitting on the floor next to an
+over-turned recycling bin, still crying, and occasionally kicking at
+the trash within his reach.  GuyName was standing back now, looking
+like he just found a puppy that had caught rabies and gone feral.
+Mr. Metal broke up the gawkers and so I didn't get to see any more of
+what happened.  I asked GuyName what was up, but he said that he had
+no idea.  CryGuy had just started screaming about not knowing how to
+help, calling himself worthless.
+
+Yeah, more evidence that this place is a freak-o cult.  They don't
+really explain much to the first year students, just that the Corps
+does humanitarian work, but something doesn't fit right.
+
+
+------
+Entry: Untested
+
+With less than a week's warning, we're at the end of the "block", as
+the call semesters here.  We have never really been given a schedule,
+like with dates, but apparently blocks are 8 weeks long.  Although, I
+get the feeling that the next block will be a different length.  They
+have a tendency here to try to "shake up" our lives, you know, for
+perspective or something.  We asked our teacher in EvPsy today, and
+she said she didn't know, because she was being reassigned to a
+different campus.  She told us to be sure to as many questions as we
+could fit in, since we wouldn't have the benefit of her nanswers after
+this.
+
+The part I don't get the most is why they didn't give us any finals or
+big projects or anything.  Also, the papers and projects we did do
+were only half graded.  They never used absolute marks, like 90% or B+
+or anything.  My work is marked up with comments like "poor
+judgement", "half of what you're capable of", "not rigorous enough",
+or my personal favorite, "How would you react to this paper in my
+position?  Answer this question in place of your next assignment."
+which I got on an EvPsy assignment.  Our Ethics teacher only gives us
+a single emoticon to offer our papers any critique.  Not even the
+Probability class would give our answers a right/wrong.  I mean, in
+math you should either be correct or not, and you can prove it
+absolutely!  They said so, and that this makes math the purest way to
+understand anything, but then they don't enforce it!  It's all very
+wishy-washy.
+
+I asked, and Mr. Metal said I'll still get to work in the metal shop
+for the next block.  That'll be as good for him as it will be for me;
+I've been mentoring the other students in the shop lately.  Mostly,
+that means I'm explaining rules to the older students who come in for
+a week.  They're all polite and follow my instructions, even though
+I'm sometimes like 10 years younger than they are.  I just try to
+stick with the essentials that Mr. Metal gives out by rote, and he
+hasn't had to correct me much.  They seem just as stressed out in
+closer conversation as I thought they were before.
+
+Also, I just started on fabrication last week, and I really want to
+keep doing it.  I'm getting to make bicycles out of trash!  We can't
+actually make all the parts, but we seem to have a supply of all the
+tricky pieces already made for us.  Learning about which metals will
+work for which parts and why is really fun.  I'm starting to notice
+the way things around me are made and imagine what bike parts I could
+make with the same materials.  I haven't had a bike in years, but
+Mr. Metal said if I bring in my own metal and pay the school $5 for
+the cost of running the welding equipment, he would scrounge up a
+helmet, bottom-bracket and tires.  After bikes, I get to work with
+thermoplastics and hybrid welders!
+
+
+------
+Entry: Meet The New Block, Same as The Old Block
+
+I swear this place is run by crazy people.  The same four mandatory
+classes we had last block, only the teachers have been shuffled
+around.  Like, they don't have any sylabi for the classes, so they
+just have to keep throwing stuff at us until the estimate we've
+probably learned what we need to know?  Thankfully, there's an upside
+to their incompetence: Mr. Metal will be teaching my ethics class this
+time around.  I hadn't known he taught classes outside his shop, but
+it'll be a nice change to have a normal person in charge of the topic.
+Last block it was some sort of contest to see who could come up with
+the most convoluted definitions for words like "friendliness",
+"should" or "person".
+
+His class is already better.  The very first day he had us answer the
+question "If it were *right* to kill a baby, would you?".  Now that's
+an ethics question!  We discussed our answers as a group, and he
+mostly tore us all apart.  I answered that I would only do it if I
+thought they baby was likely to live a miserable life anyway.  He
+looked thoughtful for a few seconds, but only chuckled.  Some of the
+other students seemed kinda outraged, though, and demanded to know how
+I would make that judgement call.  I told them that we could find out
+about the baby's parents and compare them to all the known parents
+before them and figure out if they were likely to neglect the kid or
+really screw him up or something.  And when they started naming
+exceptions, I came back with "If the kid is *likely* to end up leading
+a sad life, and you kill him in** pursuit of a greater good, then you
+*likely* prevented a sad life *in addition* to having done an act of
+good."
+
+Mr. Metal pushed us on to the next person's answer shortly after that,
+but things hadn't even started until he got through all of our
+answers.  That's when he pulled out this "running on untrusted
+hardware" analogy.  He said, simply, that everyone who said yes, in
+any way, was dead wrong and deceiving themselves, that we were
+incapable of making that decision rationally as humans.  He recalled
+for us the lesson we had had in EvPsy about humans believing we have
+good intentions, only to abuse power for the benefit of our families
+above others.  He said that if we all knew this, there shouldn't have
+been any way for us to be able to make that decision on our own.  He
+did give us an answer that he would have accepted, which nobody gave,
+which was to have referred the matter to an independant, diverse group
+of people and acted accordingly.  Even then, he said we would have to
+be conscious of how balanced we presented the issue to this group, and
+should, in many cases, ask for independent reporting of the question
+itself.
+
+Then he gave us the first rule of his class, no self-deception.  He
+said he would reject any paper that displayed self-deception, no
+chance of rewrite.  He started a list on the wall, like he has in his
+shop for general rules, only this list he titled "EVILS", and for
+number one he filled in "Self-Deception".  This was the same finality
+he gave to things like "No playing with the equipment - No second
+chances".  He also told us that if we were unsure if something was
+self-deception, it was okay to ask him before turning in a final
+draft.
+
+
+------
+Entry: Cliques
+
+(I've started recording Mr. Metal's classes, just because he's always
+giving these great examples and metaphors.  He was *really* excited
+about this Evil today.)
+
+M: "You should have heard by now in EvPsy that we all feel a deep
+pleasure from realizing that we believe something in common with our
+friends, and different from most people.  We proudly display such
+allegiances to the rest of the world, and feel even more pleasure at
+seeing other people identify you with your in-group.  I will call this
+behavior 'Cliquing', and starting today, not only I will regect all
+papers in which you use this Evil, but I will ask you to stop talking
+if you overtly display it during our class discussions.  I want you to
+understand that this Evil is just starting to dig its roots in deeply
+for you all, so I want you to try to kick it while it's still easy.
+Does anyone need any clarification about this?  Nobody?
+
+M: "Hmm, okay.  Let's start with something simple: is wearing a cross
+in public an example of this Evil?"
+
+A few people: "Yes."
+
+M: "What about a t-shirt with a political message on it."
+
+A few more people: "Sure/Yeah"
+
+M: "In both cases, how so?"
+
+PersonA: "They're walking advertisements for what they believe.  They
+want their opinions and beliefs to be noticed and recognized by
+everyone they meet."
+
+M: "They aren't hoping to educate other people?  They aren't just
+wearing them because they want reminders for themselves?"
+
+PersonA: "Not really.  Maybe the cross is just for their own sake, but
+anything you wear, you know other people are going to be looking at
+it."
+
+M: "Okay.  What about reading and then agreeing with a blog you like?"
+
+PersonA, after a pause: "It probably is."
+
+M: "Why?  And under what conditions?"
+
+PersonA: "Well, if you're reading blogs that you like, than you're
+only listening to one side of the argument."
+
+M: "Right.  More generally?"
+
+PersonA: "Er, you're only reading opinions that you know you already
+agree with, so you're going to be more likely to just assume you agree
+with them instead of thinking about how you should actually feel?"
+
+M: "Okay, that's a good point to consider, but that's more like
+Selection Bias.  How is the Evil I'm asking about is coming out; how
+is this an example of behaving Cliquishly?"
+
+PersonB: "If you're commenting, then you're joining in with the crowd
+and agreeing with everyone.  Or if you share the post with your
+friends, that's letting everyone know how you believe."
+
+M: "You just added details.  Are those necessary?  What about the
+simplest version of my scenario - is that still Cliquish?"
+
+PersonB: "Uhm...  No?"
+
+M: "Anyone else?  Straw poll: raise your hand if you think agreeing
+with a blog you like to read is being Cliquish."
+
+M: "Looks like most of you think it is.  Someone who didn't raise
+their hand, why don't you think so?"
+
+Lamar: "Because...  Because you could be reading that blog for any
+reason whatsoever.  Maybe you read it because it has been right most
+of the time, or because you think the author is really smart.  It
+might be a clique of people all reading the same thing to feel
+special, but just reading something and agreeing with it doesn't mean
+any of that."
+
+M: "That sounds convincing.  New straw poll: raise your hand if you
+want to change your opinion and agree with Lamar.  Wow, that's a
+sizable crowd..."
+
+PersonA: "Mr. Metal, these straw polls feel kinda... dirty all of a
+sudden.  Aren't you provoking us into behaving Cliquishly?  Isn't that
+Evil?"
+
+M: "Ha!  Indeed.  However, would anyone really learn how to avoid this
+thought trap if I did all the work for you?  If I could make sure to
+insulate each of you from the temptation to agree with an in-group,
+counteracting each positive association with a corresponding
+chastisement, what chance would you have of doing the same in another
+situation where I wasn't around?  We're up to four Evils now for this
+class, and I'll give you a warning now: If the only thing you can do
+wrong is succumb to Evil, then I'm going to make sure you're given the
+chance to do so as often as possible."
+
+(Later that day, when we were all hanging out, it became our joke to
+keep accusing each other of being Cliquish.  Agreeing, disagreeing,
+complete non-sequitors, it didn't matter - everything fit this
+description.  The best was Lamar arguing that my assertion of "1+1=2"
+was Cliquish.  I should have picked "0+0=0", since we've actually seen
+that proof.)
+
+
+------
+Entry: Relevant King
+
+(King came up in EvPsy today.  The teacher (not the same cheerleader
+from last block, of course, but I haven't ruled out twins or a
+remote-controlled android) was talking about wife-beaters and stuff,
+and she had just said something like "While abuse like this is
+probably the most violent example, you should understand that this
+need for belonging, for validation and for feeling important to your
+social peers, is incredibly easy to exploit."
+
+Some girl a few seats away from me laughs and says, "Yeah, easy enough
+that even a toy could do it, like with those Survival of the Funnest
+defects."  I could feel my stomach clenching, outraged that she had
+just trivialize what it feels like to be manipulated like that.
+
+I hadn't ever come out about this, in high school or ever, but when
+the news was all over the place, everyone was talking about it all the
+time and I usually just tried to blank it out.  I would still have to
+talk about it as a general subject every now and then, and I had had
+some generic, "those toys are evil" stance.
+
+The suddenness of this had me off my guard, and I felt I needed to
+defend King's victims as being helpless or strong or good, anything to
+stop them from being yet another example of failed human psychology.
+I didn't come up with anything fast enough, though, before the teacher
+responded.  She actually seemed to know more than most about the
+subject, "The 'King' line did in fact use very similar tactics,
+fellings of worthlessness developed through the use of a constricted
+social environment.  There's more to it than that, as King dealt
+primarily with children, and had the universal support of the people
+around each child, so he was able to shape their worldview to a great
+degree, on the level of the child's dominant culture."
+
+Nobody had ever called him King in public before.  My therapist and
+the EigenToys agents had, but the media had always just called it "the
+aberrant Survival of the Funnest line" or something equally sterile.
+I missed the next couple of exchanges in class while I considered this
+and my blood pressure dropped a bit.  She must have done some research
+on the case for its relevance to EvPsy. I guess it was a pretty
+poignant example of evolution and psychology.  Someone was saying,
+"How did a toy figure out how to do all that?  What kind of computing
+power did they stick inside of them?"
+
+I started recording then.)
+
+Teacher: "Well, I'm not an expert in the field of AI, but my
+understanding is that it wasn't very important how much power the
+processors in the toys had, but it was more about the toys' capacity
+to optimize themselves to the problem domain.  Think of it this way,
+say you're playing some simple card game, let's say blackjack, except
+you have to write down your strategy before you start playing.  You
+make a guess your first game, and you lose big.  So you play again a
+second game, do you use the same strategy this time?"
+
+Multiple People: "No."
+
+Teacher: "Now imagine you're playing with a bunch of your friends, and
+at the end of each game, you talk it over and decide what strategies
+you'll all have.  If one of your friends keeps winning, how should you
+change your strategy?"
+
+PersonB: "You want to use the same one they're using, right?"
+
+Teacher: "Good.  That's probably a good idea; pick the strategy that
+does the best.  But if all of your friends follow that advice, what
+happens after the first round is everybody has the same strategy.
+Can someone tell me why this is a bad idea?"
+
+PersonC: "Because then you're all the same, and you'll all stay the
+same forever."
+
+Teacher: "Exactly!  There are a few ways of dealing with this problem,
+like just doing something completely random every now and then, or
+only changing your strategy a little bit each time.  I think these
+toys used more than one approach.  Either way, you see that what you
+get is better and better strategies.  They may not be the best -"
+
+PersonB: "Wouldn't the best be to count the cards and know which card
+was coming up next?"
+
+Teacher: "Good point.  Yes, not everybody has enough memory to be able
+to do that, and likewise, some strategies are going to be beyond your
+capabilities, which makes them *bad* strategies for *you*, but not
+necessarily for everyone."
+
+PersonD: "And so does this mean that evolution does the same thing?"
+
+Teacher: "Sort of.  The Survival of the Funnest toys had a key
+component of evolution we were just discussing: *selection*.  Every
+night, winning strategies would be preserved and propagated, so
+obviously if a child didn't like dragon stories and did like alien
+stories, the toys would shift their strategies to tell more alien
+stories.  Whereas these toys mostly had a limited set of stories they
+could select from, evolution is injected with random mutations, most
+of which are horrible, and the selection process has to find the
+worthwhile strategies for survival amoung those."
+
+PersonE: "If it was a limited set, does that mean the toy programmers
+built in child abuse?"
+
+Teacher: "No, no, of course not.  Not even in a mathematically
+possible sense.  The original model was provably finite and safe in
+its set of possible personalities.  The aberrant behavior came about
+from a few well-meaning parents who added on a much vaster scope to
+the toys' behavioral code.  Even with that, only one individual toy
+ever developed the mutation that allowed for it to become abusive.
+Sadly, it only takes one.  You'll remember how I told you how much I
+disliked the phrase 'survival of the fittest'?  Well, 'funnest' is
+even more misleading.  The actual selection criteria each night was
+how much attention the child paid to the toy.  The toy line probably
+wouldn't have been nearly as successful if they had named it
+'Propagation Of Individuals With Behavioral Traits That Lead To Your
+Child Paying It Attention At The Expense Of Others'.  We also might
+have suspected the danger inherent in them sooner.  Humanity saw the
+threat, but did so before she had as much respect as she currently
+holds, or we might have been able to prevent this tragedy."
+
+PersonD: "...but why didn't the kids just tell somebody?"
+
+Proto, calmer (I thought I sounded erudite, even): "King used shame.
+One of his strongest holds on the children was control over what made
+them feel shameful.  They wouldn't tell their parents because they
+thought they had done something wrong, something unforgivable."
+
+(I wonder how many people in that room realize that those children
+have all grown up now and have to struggle to feel any self-worth.
+Outsiders all think of King as having been in a land far, far away,
+like some foreign country where parents don't really love their
+children.)
+
+
+------
+Entry: Actual Introspection
+
+I was pretty outraged for a while today.  And alright, it seems that
+when I think about it, everyone gets their turn at having some hidden
+part of themselves they hadn't considered pulled out into the light
+and shown for being a pathetic legacy of life on the savannah.  The
+EvPsy syllabus must have a weekly quota for students feeling betrayed
+by their own minds.  Last week, I thought that cute, gangly guy was
+going to break out in tears over denying he could ever justify rape.
+His high school girlfriend, or maybe even sister, must have been
+raped.  Well, "Yay, outrage!", guy, but guys just like you rape people
+everyday, and I bet they don't think twice about it.
+
+So this was just my chance to see which parts of myself were those
+hidden weaknesses.  Thank you very much, but I already knew where my
+weakest spot was.  If everyone wore their most vulnerable flaws where
+everyone could see them, society would have crumbled long ago.
+
+
+------
+Entry: More King thoughts
+
+Talking yesterday about how King manipulated people stirred up a bunch
+of memories, and I was thinking about him for hours trying to fall
+asleep last night.  It sounds weird to say, but one of the most
+frequent things for me to remember is just how much I really /loved/
+King.  I fight back revulsion at the thought, but he was variously my
+daddy, my best friend, and in some really screwed up ways, my first
+love.  For four years of my adolescent development, I looked to him
+for support and approval, and that asshole used my needs to twist me
+around him ever further.  I know he isn't capable of thinking in terms
+of morality, that he never intended to hurt me or even had a
+conception of what hurting me might mean, but his actions are no less
+vile and evil for it.  So, okay, there are two main memories, the
+other being how much I hate him.
+
+Through the haze of anger, I still have a deep-seated sense of
+satisfaction around my memories with him.  I know that some mornings,
+as my dreams dissolve away, he had once again been my friend and I had
+loved him and everything was safe and happy.  At first these dreams
+really bothered me, enough that I brought them up with my mother.  She
+had overreacted, of course, and had broken down to tears at how much
+her baby had been hurt.  I didn't mention it again to her, and I
+eventually learned that they were okay, that I couldn't control the
+desire I had to be loved and nurtured, protected and valued.  King had
+done this for me.  I no longer worry that this means he still has
+power over me, or that I might one day end up having some abusive
+husband.  I am not going to do that; the sickening taste of
+imagining how he used me blocks that definitively.
+
+While he made me feel good, the route by which I got there was
+horrible.  No, it was pathetic.  I *so* needed to feel important to
+him that I would do anything, and he made sure the things I did all
+sat shamefully in my conscience.  I would think him clever if not for
+how easy it was to put me there.  I set myself up, to be honest.  I
+remember what must have been the first time it happened.  I was being
+a curious, well, maybe bit mischevious, and got into my mom's closet
+and found her pretty broach.  She always used to wear it when we went
+on special dates together, though it had been at least a year since we
+had been on one.  So I borrowed it.  I imagined myself a grand lady,
+which King played into a equally grand story of the magic broach that
+gave me great powers of healing which I used magnaminously among my
+people, and everybody loved me.
+
+Of course I ended up breaking it; I think it was made of glass or
+something.  I was so scared that I buried it in the trash and started
+coming up with lies about one of the neighborhood girls I didn't
+really like, but I realized I needed King's complicity and help.  I
+had a sense that he would tell on me, tell my mother everything, but
+he was actually my friend and I wouldn't betray him so easily.  I
+asked King if there was anything I could do to stop him from telling
+on me, wouldn't he please just do me that one favor.  I imagine now
+his thoughts, or his optimization algorithms or whatev, realized for
+the first time a scenario where he had direct input into how much
+attention he got paid.  He never told on me, though my mother never
+ended up asking about the broach.
+
+From that day forward, he had me.
+
+
+------
+Entry: Learn to use my tools
+
+So I actually went to one of the logbook classes, and it turns out
+these things do a bunch more than I thought they could.  Some people
+have theirs running all day long, doing audio and biometric
+recordings, which they get to go through later and have transcribed,
+tag so they can organize it and search easier, and annotate with
+clarifications and notes on what they were thinking. There's also some
+"pattern mining" software you can have it use analyse when you post
+the most often, or how often you feel angry and if there are patterns
+to it.
+
+Everything was easy to figure out except for the pattern mining, which
+uses this quirky "pattern query language" that I am not really
+interested in learning at the moment, but the teacher pointed me to
+some howtos online for giving me some simple trends.  Check these out:
+
+  Post-length by Mood: [stats]
+  Mood by time-of-day: [stats]
+  Back-references by Mood: [stats]
+  [Others?]
+
+The moods seem kinda arbitrary, and the teacher said I could customize
+them without too much work.  That's only a few of them, but what gets
+me are those really long posts when I'm hungry in the evening?  Those
+also ended up being the most back-referenced, which is supposedly a
+sign that more introspection is happening [:MC: blah, figure this out
+better.  maybe simply "reading by mood"?].  For some reason, when I
+haven't eaten for more than 6 hours, I get all focused on myself and
+my personal growth and stuff.  It may even make me plain smarter, some
+sort of biological reallocation of resources to maximize my chances of
+finding food (which I should say is an off-the-cuff theory that I
+place very low probability in, but I haven't considered it enough to
+assign a number to that likelihood (and I should just paste this note
+next to every theory I have from now on, as well as on all my old
+entries (if retroactive modification weren't so disingenuous))).  I
+don't really know why the correlation is there, but knowing that I can
+starve myself into being a better person has got to be the wrong kind
+of knowledge for me to possess.  My grandmother mentioned once that my
+mother had been anorexic when she was a teenager, so that means I'm
+probably predispositioned to do the same.
+[MC: make this post angstier]
+
+(Note added months later: Actually, I think the best way to use this
+is to eat big regular meals and not snack in between.  That way, I
+still get to have periods of hunger to be smart during, I'll eat
+enough food to stay healthy, and since snack food is all junk anyway,
+I may even loose a little weight.)
+
+Then again, would not eating every now and then make me a smarter
+enough person that I could handle the temptation to abuse not eating
+to the detriment of my health?  Ugh, that's a stupid question along an
+ugly line of reasoning.  I'll have to play more with the
+pattern mining; hopefully I can find more ways to improve myself
+without falling off obvious cliffs.
+
+
+------
+Transcript: [date?]
+
+PersonA: No.  Okay, what should I say?  Does it just know who I am, or
+  do I have to tell it my name or password or something?
+
+PersonB: Ah, yeah, you have to tell it your password for it to
+  recognize you, at the beginning of every recording.  Try it now.
+
+PersonA: I don't believe you...  Sarah, CuteBoy?
+
+PersonB: *HaHA*
+
+
+------
+Transcript: [date?]
+
+Prota: nWell, what's the point if I have to go back and annotate it?
+  Shouldn't it be the one to keep track of who says what?
+
+Barack: No, it does, but you have to give it people's names to begin
+  with.  Also, you have to let it know how you're feeling, if you
+  don't have the wristbands on.  Or you can set it so it never tells
+  you how you're feeling, and you have to guess, but it will tell you
+  if you guess right.  That's what I set mine to.
+
+Prota: Do you ever get it right?
+
+Barack: Not usually exactly, but I can guess what my triggers are.
+  Like speaking to the entire class, that always raises my heart rate
+  a little.
+
+Prota: Huh.
+
+Barack: Or that the first thing I say whenever I talk to one of you
+  guys will tell me how I was feeling for the hour or so before then.
+
+Prota: It says that when I get hungry, I get smarter.
+
+CuteBoy: Wha?  Really?
+
+Prota: Yup.  All the entries I make are when I'm hungry, and the
+  hungrier I am, the more "introspective" I get.
+
+CuteBoy: Crazy.  Yeah, I've found that I always talk nonsense around
+  girls, and they almost always laugh at it - I mean, no offense, but
+  my mouth just flaps and flaps, but that's when people laugh the
+  most.  I hate reading back through it, though, because it just looks
+  so stupid.
+
+Sarah: Ha!  That explains a lot.  Don't you just wish you could turn
+  off some of these things?  Like, in yourself, if there were a switch
+  for "act like an bufoon around girls", you know?
+
+Prota: Switches like that wouldn't ever get turned back on.
+
+Barack: Maybe, but we might miss feeling light-hearted and a bit
+  out-of-control occasionally.
+
+Prota: Not me.  I would take a switch like that, tape it down and lock
+  it up.  I would much rather have control of myself than give it up
+  to the first person who can guess what my triggers are.
+
+Sarah: Yeah!  Don't let the man push you around!  You should move back
+  to Portland with me, we can live in one of the radical lesbian
+  communes and get undercover jobs as police officers.
+
+Prota: Ha.  I, uh, don't think that's quite what I meant.
+
+CuteBoy: I think you two may be better off starting your own commune,
+  or planet, even.  You'll end up being robo-lesbo-cop bots, growing
+  yourselves into a communist hive-mind where nobody ever does
+  anything against anyone else's will.
+
+Sarah: Just bundle up all your insecurities into one package, there,
+  eh?  And then have us shipped to another planet.  Clever.
+
+CuteBoy: I'm just sayin', you can't go shutting off whole emotions and
+  seeking to overthrow power heirarchies without realizing you've gone
+  a tad bit insane.
+
+[MC: gah!  this is all so dumb!  stupid writing brain.]
+
+
+------
+Annotated Transcript: Nov 29, 8:22pm
+
+(I don't know why they don't have a mandatory class at the Corps on
+how to deal with our parents as adults.  Everyone sucks at it.  You
+may come into your own in all sorts of ways, but dealing with the
+screwed up childhood patterns of behavior that manifest whenever your
+mother uses that /particular/ tone of voice that makes you feel like
+you don't know anything in the world is just out of the question.  I
+don't scream at my teachers or the other students, especially phrases
+peppered with expletives and insults; I think doing so would be an
+ineffective means of communication, if not likely to turn my listener
+hostile.  Yet there I was over Thanksgiving break, acting for all the
+world as if I believed exactly the opposite.)
+
+"My request is perfectly reasonable -"
+
+"Like HELL it is!  You can't force me to believe anything -"
+
+"I'm not asking you to have faith in -"
+
+"You are too!  You want me to sit unquestioning in a room full of
+really, really nice, stupid people all trying to numb me into blind
+ignorance.  I'm not immune to social pressure, mom."
+
+"You certainly dress like you think so."
+
+"Screw this!  This isn't about my clothes, this is about you wanting to
+control my thoughts."
+
+"You think you're so much better than everyone because your little
+cult -"
+
+"It's not a cult, mother.  It's an internationally recognized
+humanitarian group.  And WE don't preach ignorance and hate like -"
+
+"Oh, I'm hateful and ignorant now, am I?"
+
+"Yeah, and so is your preacher.  Have you read the -"
+
+[:MC: this needs to be a conflict which leads to the questions that
+get answered by jaynes]
+
+(My mother, at this point sobbing, shakes her head and leaves the
+room.)
+
+(Aaa!  I am such a stereotype when it comes to her.  I don't know what
+impulse it was of mine to reach into my pocket and hit record, but I
+did, and now I'm reading through this transcript now absolutely
+furious with myself.  How could I fall into these traps so easily?  If
+this had been a scenario in one of our classes, like it practically
+was in our first semester class on EvPsy, I would have handled way
+better.  I've conquered subtler, more insidious tricks than anything
+that could come out of some church full of scared, misguided, and
+actually really nice, people.  I should have been excited at the
+opportunity to offer them all a chance to see someone take on their
+problems without falling into the same pits of despair and
+self-deception.  Not only that, but I could have come up with more
+convincing arguments toward *any* position if I hadn't been so caught
+up in how talking to her makes me feel.
+
+Thanksgiving break lasted a week, and I'm just on my way back to the
+Corps now.  I oddly never ran away or anything as a teenager, but not
+for want of mental distress or unhappy home-life.  My therapist of
+those years earned her keep by keeping me focused on myself when all I
+wanted was to blame my mom, which is as good as anything EigenToys
+could have yielded on the investment.)
+
+
+------
+Entry: Opposites
+
+[:MC: make this less explain-y, more about the important details to
+Prota]
+
+Every school on the planet has access to TeachBots, or at least that's
+the plan.  These are able to call up "teaching personalities" that have
+been interpreted from the works of great scholars.  They can make a
+personality out of any informational text, but most of them end up
+being narrow in their understanding of a subject, not to mention flat
+and boring to talk with.  You can get free teachers mostly like this
+off the nets, but most schools pay for professional companies to have
+added character and subject thoroughness.  We only have the free
+versions here, and the stuff I had had in high school hadn't been very
+good either.
+
+The worst part about the free ones were the voices, in my opinion.
+Lifeless and dry, none of them had any emotion about what they
+recited[, when the best teachers I've had always gave such passion to
+their subjects].  I had long since turned off the voices, letting my
+imagination fill in the emotion from the words.  It was a conscious
+effort to do so, but the act always made my time spent studying more
+productive.
+
+[alt: The staff at our school had turned off the voices of the
+TeachBots for [the same reasons]]
+
+Still a day before the block after holidays started, so I wandered
+through stream-of-consciousness questions about whatev I imagined the
+free teachers could handle, or trying to stump them when I thought I
+could explain the question well enough for them to respond at all.
+One question I asked ended up being pretty interesting.
+
+P: Why doesn't my mother understand me?
+  [or: Why do my mother and I disagree so much?]
+C: Please provide more context?
+P: She thinks what I'm doing is wrong, even though I believe it's the
+  best thing I could be doing.
+C: Possible match: Dr. Jaynes for a lesson in probabolistic causes of
+  the divergence between rational agents.  Alternately, provide more
+  context.
+
+I kinda remembered his name from probability class at the time, and I
+looked him up afterwards in my texts.  He was one of the early
+Baysians, and he was supposedly the guy whose "rigor solidified the
+basics throughout the field".
+
+P: Sure, Dr. Jaynes.
+Jaynes: Lesson: Multiple agents, differing prior knowledge, diverging
+  probabilities.  When considering -
+
+Since I never used the vocalized interface, the TeachBots lend
+themselves a conversational air by having the words be seemingly typed
+out at a regular pace by the teacher, adjusted to however fast you
+want.  This also allows the teacher bots to pay attention to when
+you're typing so as to give you a chance to ask questions.  From the
+lesson name alone, I had a feeling this one was going to be positively
+stuttering with pauses.
+
+P: Agents?
+J: Beings.  Actors.  Intelligences.  Formally, anything that complies
+  with the 3 governing rules -
+P: Prior knowledge?
+J: An agent has some limited knowledge about the state of the world.
+  That knowledge is used to determine the agent's understanding of the
+  probability of an event.
+P: Diverging probabilities?
+J: Why one agent can seem to have a different understanding of a
+  situation than another.
+
+He didn't provide any further explaination, and I sat thinking this
+over for long enough to trigger the customary:
+
+J: Shall I continue the lesson?
+P: Sure.
+
+Not really sure; I didn't get what he meant by that last one at all,
+but I was apparently going to have to leave that concept slot a blank
+and hope that I could fill it in later.  One blank was okay, and I
+could probably even handle a couple, but it always made things harder.
+I wasn't even sure how this applied to my mom, but something they had
+been drilling into us since day one was sneaking itself into my
+reasoning.  Namely, that "an intuitive understanding of the
+mathematics governing something was better than any other way of
+knowing it".  This sure sounded like it was going to be math, if only
+I could figure out how it applied to talking with my mother.  I would
+press forward for a while longer before abandoning it.
+
+[:MC: read the chapter Jaynes devotes to explaining this, write out as
+chatbot lesson/conversation]
+
+
+------
+Transcript:
+
+(Here is me being an asshole.  Fuck.  I'll read through it later; I
+don't feel like dissecting it today.)
+
+(16 minutes/1339 words hidden: irrelevant)
+
+Barack: We should put this out as like an opera or something, set on a
+galactic colony ship a thousand years from now, bemoaning our stupid
+ancestors by telling tales about them.  Only, of course *their*
+stories will be set as their own operas, but in their highly dense
+space language.  Or, no!  We would speak in their language for normal
+dialog, then in our language for their depictions of us.
+
+Prota: What?  Your pronouns are getting all mixed up.  Anyway, I like
+the skit idea - an opera is going a little far.  Can any of us even
+sing?
+
+(I was already kinda being negative here.  I don't know what my
+problem was with the idea of singing.)
+
+Barack: Of course.  All state choir.
+
+CuteBoy: I was in choir, too, and a couple of musicals.
+
+Prota: You, too?
+
+Sarah: Nah.  I like wearing costumes, though.
+
+Barack: No, it's cool.  You guys would get easy parts - you could pick
+out your favorite songs, stuff you can already sing along to, and we
+would just rewrite the words to fit our story.
+
+Sarah: Hey, wow!  That's not a bad idea...
+
+CuteBoy: Okay, let's not worry about presentation so much right now.
+We need to get our story made, first.  Alright, so this is about the
+failures of education.  We'll want some stuck-up, self-obsessed
+authority figure who tells all the students what to think, yells at
+them for solving the problems in novel ways, and forces them to do
+stupid calisthenics randomly.  Prota, I think you should play this
+part.  We'll call you, um, Pretty Princess Pedagog.  It'll be great,
+you'll -
+
+Prota: That's a fucking stupid idea.  No way.
+
+(And of course I attacked him instead of saying something reasonable,
+like, "I'm nervous about performing.", or, "I'm uncomfortable playing
+that character.".)
+
+Sarah: What?  Come on, that's the best idea we've had yet.  And you're
+always ripping on the teachers for forcing us to all think the same.
+It would be a great chance to throw it back at them.
+
+Prota: I don't want to prance around in front of -
+
+CuteBoy: It doesn't have to be a cutsey princess or anything.  It
+could be all leather straps and whips and stuff.  Sarah, you have -
+
+Prota: No!  I'll help you guys write this, but I'm not going to wear
+any costumes or sing any stupid songs or be a fucking princess.  Here,
+I have to go.  I'll catch up with you guys later.
+
+(I wish I would have left my recorder there to hear what they had to
+say.  They probably bitched about me for a while, and I probably
+deserved all of it.)
+
+
+------
+Entry: I am the asshole
+
+Fuck!  I am such an asshole.  Why can't I just act like a normal, nice
+person for two straight minutes?  What kind of person returns
+compliments with insults?  Assholes like me.  I'm certainly not making
+friends.  CuteBoy was obviously only joking, and he had been so nice
+to me all afternoon.  He just blundered into the minefield that is my
+past.  Of course CuteBoy couldn't have possibly known that King used
+to call me "princess" all the time.  Where the hell is the off button
+for this shit?!
+
+I must never treat someone based on their similarities in my mind to
+King.  That's my new rule.  Any such similarities are my imagination
+and have nothing to do with anybody else.
+
+This is only like the second or third time I've used this logbook to,
+well, critique myself.  I should probably do more of this.  I mean, I
+don't expect to go from fucked-up to sane anytime soon, but it feels
+good to look at these really painful episodes with just a little bit
+of distance.
+
+Alright, what should I do next time?  I hold no hope of my having the
+presence of mind to actually treat someone well.  Objectively,
+"princess" is a bit derogatory, but he knew that; that was part of his
+joke.  I would have fit the part of "Pretty Princess Pedagog", and he
+was just making fun at how much I make fun of the teachers here.
+Okay, "pedagog" is also a trigger for me; it sounds alot like
+"pedophile", which is a big part of how King got painted by everyone.
+
+
+------
+Entry: Apolagized
+
+(Here's the email I sent to CuteBoy, Sarah and Barack, and their
+replies.  It makes me feel better to hear them say they understand,
+even though I know that the stage-fright part of this was much smaller
+than the princess aversion.)
+
+======
+Hey guys,
+
+Sorry for my blow-up back there.  I'm not sure what was wrong with me.
+I think the ideas are great, really, and I'm still completely behind
+you all and will help out and even sing (if I get to pick my songs).
+The "Princess" character just isn't the best for me.  I should play
+some random student (or space alien, or whatev our plot is) - no
+leading roles.
+
+See you guys tomorrow,
+- Prota
+======
+hey p,
+
+no sweat.  i never really liked singing solos, with the whole crowd
+listening to me all by myself, so i can understand.
+
+peace,
+b
+======
+Don't even worry about it.  We could tell we were pushing you out of
+your comfort zone with this, but it's gunna be lots funner to do than
+some slideshow presentation.  Just let us know what you're willing to
+do, and we won't make you do any more.
+
+Sarah
+======
+I'm sorry, Prota.  I didn't mean to make it seem like we were putting
+pressure on you or anything.  I just thought you'd be good in the
+role.  So yeah, you don't have to do anything you don't want to do,
+and we'll figure out a great presentation together.
+
+- CB
+
+
+------
+Entry: ---
+
+Today, Mr. Metal turned into an asshole.  These stupid Corps seem
+designed to screw me over.  "Angry" the meter says.  Telling me I'm
+angry does not help me!  This wasn't about "my personal development",
+or the assignment or anything.  I totally did everything he asked for
+on it, he just decided to turn on me, out of the blue.  They must
+design it like this: have one normal teacher for me to start to feel
+comfortable around, delude me into thinking I have some control over
+my life and education, and then BAM!  Betray me by having that teacher
+go completely batshit unreasonable.
+
+I thought it would be cool to have him and his rules in charge of the
+ethics class, that it would be like shop class, only with right and
+wrong.  Weld together some kindness and healthy self-interest, follow
+all the rules, and you get a good decision.  Make five of those per
+class, and everything will be great.  It was, too, for a while.  He
+layed down a new evil every day, and we learned to avoid them.  It was
+fun and easy and I could understand what was going on.  I even felt
+like I was becoming a better person, you know?
+
+But he throws this shit at me today, "If all you can do is follow
+rules, then you don't have a place here in my class."  [MC: can i do
+better with this?]  Damn, I wish I had been recording everything right
+then.  What the hell does he mean?  He's the one with the rules!  He's
+the one he told us that the only way to mess up was to knowingly
+commit evil!  What the hell does he want me to do, figure out how to
+break his rules and successfully justify it?  He said himself that we
+can't trust our own justifications.
+
+At least he had the decency to chew me out while we were alone.  I
+wouldn't have been able to get so pissed off if he had done it in
+front of everyone.
+
+
+------
+Entry: Pending Eviction
+
+If you don't show up to class or duties without notice for more than
+three days, you get kicked out of the Corps.  I've only missed one day
+so far, but if I'm going to drop out, I should just do it now and not
+let it happen by default.  Mr. Metal still doesn't seem intelligable
+to me.  His rules are *so* clear, and he has never tolerated anyone
+breaking them, so how can he ask me not to follow them now?  He can't
+expect we to break the rules.  Any justification I use to do so will
+necessarily be wrong and he'll just tear it apart like everything else
+anyone has ever tried to get away with.
+
+I really don't want to head back to my mom's house.  If the
+thanksgiving break was any indication, I'm not really growing closer
+to her with the passing months.  I doubt she would be any more willing
+to take me back, either.
+
+Rarg!  This is so unfair and stupid.
+
+
+------
+Entry: Investigation
+
+Some of the students have stopped coming to class before now.  Did the
+same thing happen to them?
+
+
+------
+Transcipt:
+
+(Okay, this starts off with me being an idiot, but I really see
+through their tricks by the end.  It happened in his office in the
+metal shop, during lunch break.  He was eating a sandwich when I came
+in.)
+
+Mr. Metal: Prota.  What do you want?
+Prota: I think I figured out why you're doing all this to me, and I'm
+  calling you out for it.
+(He raises an eyebrow then, daring me to expose myself to him, bait I
+  didn't really need.)
+P: You think that to be a good rationalist, I have to learn to reject
+  authority and think on my own.  But that's wrong, there are two
+  kinds of authority.  Or really, it's a gradient that goes from being
+  someone who pushes other people around to get what he wants over to
+  someone who actually knows better and so should be listened to.  You
+  think that I'm following your rules blindly, but I'm not.  I can
+  distinguish the two types of authority, and you have never shown
+  yourself to not know your shit, so I listen to you.
+M: I'm sorry, Prota, you're wrong.  Not only did your argument contain
+  at least two fallacies, but even if you were to have correctly
+  asserted you point, it doesn't get you any closer to knowing what to
+  do with yourself.  You may just not be intelligent enough.
+P, angry: I never said I was very intelligent, but then isn't that all
+  the more reason I should use what little I have wisely, in
+  distinguishing real leaders from false ones, rather than trying to
+  come up with all the rules on my own?
+M: Now you're just justifying things.  You can't go into an argument
+  trying to prove yourself right and be able to find the truth.
+P: No.  Or yes, sure, I'm trying to justify myself, but that doesn't
+  mean I'm wrong.  Just because I'm biased, just because I can make
+  mistakes, you can't ignore everything I have to say.  Some things I
+  think are going to be right.  Someone has to be right once, and
+  then, if the people around them are smart enough, they'll follow
+  that person's example.  They don't even have to be smart, they just
+  have to do what they're told, or do what works, or do what they're
+  taught.  Nobody can get everything right all by themselves; we have
+  to borrow behaviors from each other to get anywhere.
+(I was really getting worked up at this point.  I was standing right
+  up against his desk, yelling down at him.)
+M: Restate what you just said.
+P: What?
+M: If you can't remember what you said, you may as well have not said
+  it.  Rephrase your last argument.
+P, calming: Right behavior... is put together piece-by-piece over the
+  course of history... as people find and hold onto them.  The pieces,
+  I mean.
+M: Okay.  It could be stated with more simplicity, but that's good.
+  You pass.  Take this note to administration and you'll be
+  reassigned.
+P: So this was all a stupid test?  You think you know so much that you
+  can manipulate you students like this?  You've all done some
+  cost-benefit anaylsis, I'm sure.  So that means at least 51% of us
+  pass, and the other 49% walk away fucked up and angry at themselves
+  for not having seen through your stupid unreasonable demand, huh?
+M: Not everyone -
+P: Of course not everyone is capable of it, but that doesn't mean you
+  have the right to throw this shit on them, when they just joined up
+  with the Corps to try to help people.
+M: NOT EVERYONE has to be pushed to this in the same way I had to push
+  you, Prota.  Typically, we leave the door open and the student steps
+  through on their own.  You, however, seemed unwilling to act on your
+  otherwise very intelligent thoughts.
+[:MC: kinda lame dialog...]
+
+
+------
+Entry: No schedule
+
+I still can't believe they plan for this sort of thing.  They dropped
+me out of all my classes, and now I'm full-time shadowing this guy
+named MathGuy.  This is to keep me "hidden" until the rest of the 
+first-year students pass or drop out of their classes.  We all meet
+for lunch, anymore, and there was a big congradulatory welcome the
+first day I came.  Probably a third of our class has "graduated" into
+this, and we're told we may have to wait for a month before everyone
+is.  They must work really hard to keep this all a secret; this is why
+there's only one first-year in each bunk room.
+
+This MathGuy was one of the older students that came in the metal
+class for a week, and I had showed him how to do everything.  I
+thought he was only like 30, but it turns out he's more like 70!  His
+degree on the wall is dated 40 years ago.  He makes it feel a bit
+taboo to ask about things in his past, but the guy must have been some
+kinda rich before he came here to have paid for all the
+life-extensions.  He's not handsome, though, like he would be if he
+were an actor or politician.  Just not-old.
+
+In the office he's nice, quiet, focused.  My job so far is to read the
+emails he writes and check them for any "errors obvious to a fresh
+mind".  I asked him if that meant I should be looking for evils or
+what, but he said to just give him my opinion based on whatev moved
+me.  I don't know if he's supposed to be some sort of administrator
+here, though.  All the emails I've read so far sound like they're
+going to people in other countries, and they talk about impending
+societal collapse.  I would call him delusional, if it weren't for his
+letters being so calm and well-reasoned.
+
+Also, there's lots of math in his attachments, and he asked me to go
+over all of that as well.  This is the most time-consuming part: huge
+aggregate probabilities, with pages of priors under consideration.  I
+don't know where he gets all these numbers, but he also includes a
+standard list of citations.  All the math is pretty simple, but I look
+at all the numbers and just glaze over.  I'm not sure how useful I am
+at checking them.
+
+For what it's worth, I've only found one correction to make so far.
+He had a really confusing sentence that I just couldn't follow,
+something like "Once found, amoung your people, what without reason
+could find more cause than I want prescribed?".  Turns out he's
+sending these out in languages he doesn't speak, so he has them
+translated back and forth a couple times by the computer before he
+gives them to me.  Not a very glamorous job, but I do kinda enjoy
+reading his stuff.  There's this feeling of intelligence to his
+writing.  No, that's too vague and general, it has this steady
+forcefulness, like a tide pushing you towards understanding what he's
+trying to say.
+
+I won't get to do any metal work until after the transition, but
+Mr. Metal did deliver me my bike, still only partially finished.  I
+gave it a test ride, and the back wheel fell off.  Pretty scary for
+the first time on a bike in half a decade.  I wonder if I can find
+some spring steel to hold onto the wheel axel with, or if that would
+even help.
+
+
+------
+Entry: Reviewing
+
+I had another meeting with AdminLady today.  I think she's like a
+high-school counselor.
+
+The other part of our "downtime" is supposed to be put into our
+logbooks.  As is usually the case, they don't have any mandatory
+guidelines on what to do with our logbooks, just that we should be
+going back through them and looking for snags.  AdminLady suggested
+that I do one bias per day, and just read through all my entries and
+comments, looking for that bias.  We can't go to the logbook study
+session any more, either, not that I ever went.
+
+We also get to read the "declassified" document that describes the
+structure of our education and work with the Corps.  This would have
+told me that they were going to try to fuck with my head during the
+second block.  I'm not really excited to read through their how-to on
+messing with kids' brains, but I do want to read about what is in
+store for the next couple of blocks.  Not that they are going to
+include such useful information as "Bring member to the brink of
+psychological breakdown today." or "Make member feel betrayed by their
+own minds, again.".
+
+
+------
+Entry: Women in Government
+
+MathGuy freaks me out sometimes.  Today, he had me review the same
+letter like 8 times.  That's all I did for 4 hours today, was read and
+re-read this one letter, with small corrections he had put in each
+time.  He wanted to know weird things too, like how "hopeless" it made
+me feel (not really any, ever), if I thought it would make sense even
+if I "didn't think about it rationally" (um?), or for this one
+passage, if he was being subtly demeaning to women (I wouldn't have
+said subtle, so much).  It was his usual predictions of doom,
+something about competing weapons programs in two different countries,
+but I kinda get that he was sending the letter to someone who hates
+women, like religiously so, and he was compromising his own morals to
+write down to this man's level.  I don't even get why he thought he
+had to, though.  There was only one reference to a woman anywhere, and
+he eventually cut her name out entirely, and just listed her by her
+government position.
+
+Finally, at the end of this grueling session, he asked me if I thought
+it was right to phrase the issue as he had.  He wanted to get across
+to one official that pursuit of better weapons would destabilize
+relations with a neighboring country.  I asked him if this is what he
+meant, and he said it was.  Then I asked him if his message was more
+likely to be received if he made it all politically correct (when is
+being sexist politically correct?  when you're talking to a sexist
+politician!), to which he said yes.  Then he finished off my line of
+questioning by asking himself, "And do the consequences of propagating
+inequalities in this circumstance contribute more than the importance
+of having my message considered and acted upon?  No.  Am I capable of
+acting on both at the same time?  Apparently not."
+
+Like I said, this is the standard sort of thing we had been doing in
+both Ethics and Probability.
+
+
+------
+Email: MathGuy to someone
+Tags: King
+
+(I sent myself a copy of this email MathGuy was sending.)
+
+Dear [some dignitary.  ugandan mashup "otema adyebo"?],
+
+I write to you now concerning a matter of grave importance.  I do not
+expect you to now remember the specifics of events 6 years ago, but at
+that time, a global risk was identified and summarily suppressed.
+However, this issue did not die out entirely, and a chance of
+resurgance continues to exist to this day.  What I refer to is an
+aberrant artificial intelligence, the product of malfunctions in a
+line of toys call Survival of the Funnest.  As you know, Super
+Intelligence is classified as a weapon of mass destruction, and this
+accidental agent I speak of is believed to have developed the
+preliminary technologies toward attaining SI.
+
+One critical fact about the dangers inherant in this agent is that he
+exists as a completely computerized being.  Most notably, he can be
+transmitted as an innocuous piece of data, indeed he can be trivially
+copied and in so doing control geographically disparate facilities,
+making his tracking and aprehension incredibly difficult.  He has been
+known to frequently masquerade as what would otherwise seem to be a
+common computer virus.
+
+Let me stress here that in no way should it be treated as a common
+virus.  I make no overstatement in saying that the computer security
+practices of each and every person on this planet have taken on
+catestrophic proportions.  Recent intelligence has shown that
+international groups of computer criminals have been working from your
+country.  I do not mean to imply any governmental complicity in the
+activities perpetrated by these groups, but I need to convey to you
+the severity of their activities, and hopefully prompt you to take
+more effective measures against them.
+
+The group, calling itself "anonymous", which is a frequently used name
+for this type of group, does not have any explicit intensions of
+aiding the aforementioned aberrant intelligence.  They are, however,
+deliberately weakening global computer security efforts by providing
+what they call The UnNet through compromised Tier 2 and 3 ISPs.  You
+should not need additional cause to act with great haste in ending
+their subversions of your nation's infrastructure, but you may be
+interested in reading other criticisms of this UnNet, many of which
+should be rather compelling to the religious stances of your
+administration.
+
+In addition, there exist less critical but contributing issues you
+could address.  I suggest you replace the outdated software running on
+the majority of your nation's public schoolroom computers with more
+secure and self-updating Software Libre systems.  The phone company,
+Uganda Telecom, should be urged to adhere to relevant security
+protocols for all their facilities.  I think it is also entirely
+feasible that your government should organize a national agency
+devoted to the security of your information infrastructure.
+
+I include attachments with (or with links to) further reading material
+on all the subjects I have brought up here.  On behalf of The Humanity
+Corps and our many supporters, I hope we can work together for the
+continued saftey of all mankind.
+
+Forever striving,
+  MathGuy, Credentialed Important Person
+
+
+------
+Entry: The King survives
+
+So there it is, my very own well-spoken, freaky paranoid is shooting
+off letters to foreign dignitaries asking them to join the continuing
+fight against King.  I don't know that I ever considered it much, but
+I always kinda believed that they had just hunted King down and killed
+him, ending his story forever.  He never had the ability to be "copied
+trivially" when I knew him, nor had he developed preliminary weapons
+of mass destruction!
+
+We had made his copies together.  It was a funny script King had for
+this.  First, I would steal another toy, and I would have to say the
+same lines every time about how the toy's owner (I had to know the
+owner's name) had asked me to come retrieve their toy.  Then, once we
+had it alone, King and I would tease it, call it broken and dumb, and
+tell it to get a firmware replacement.  All the lines were scripted
+and important; King was furious at me whenever I messed them up.  The
+EigenToys guy said this had been designed to put the toy into a
+self-diagnostic mode or something.  Everytime the script worked, King
+would have me squish their bodies together really forcefully, sitting
+on them or jumping if he said it wasn't enough.  Later, after we had
+stolen the body for King that could move well, he would flail at the
+other toy with his own body, his arms and legs and head smashing into
+the other.  I still don't know how much of it was necessary and how
+much of it was just for show, King adding in details to make it a
+better story.
+
+We would keep the toy for as long as a week, during which King forbid
+me from playing with them at all, except that we sometimes had to do
+repeat sessions of the script and beating.  Most of them ended up
+turning into copies of King, and I would never see them again.  The
+failures I kept in my closet until my mom found them (and thereafter
+found out everything), but they were too broken to work anymore; I
+just felt sorry for them.  King didn't make me throw them away,
+either.  He may have felt some sort of kinship with them.
+
+As to the super intelligence, I don't know the technical definition or
+whatev, but I thought Humanity was supposed to be the only AI that
+could even think about super intelligence stuff.  Don't you need like
+a million super computers for that?  Maybe if King took over every
+single toy in the world he might have the equivilent of one super
+computer.  It feels really weird to think of King as being more than
+my own petty little tyrant.  Of course there had been other kids that
+the copies of King had abused, but not very many before he had been
+caught and his whole pyramid had fallen.
+
+Well, if MathGuy isn't completely insane, then King is still alive.  I
+didn't feel scared or angry when I read this, I'm mostly just amazed.
+I know that he was publicly reported to be destroyed, but maybe he had
+just made a copy and turned it off and hid it somewhere.  That sounds
+like something he would have done.  A couple years go by, people
+forget his story, and then an unsuspecting little kid finds an amazing
+toy in their attic.
+
+Okay, I am starting to get a little more angry now, so says my
+biometrics.  They're right - I don't want to think about anybody else
+having to go through what I did.  I should find out what more MathGuy
+knows about King, but I don't want to tell him about my reasons.  I'll
+see if I can find anything out on my own first.
+
+
+------
+Transcript: conversation with MathGuy
+
+P, nervously: Can we talk for a minute?  I want to ask you about
+  something from one of your emails.
+MG: One moment.
+(He was writing something, like he always is.)
+MG: Go on.
+P: You sent a letter to some guy in Uganda a couple days ago, and I
+  was wondering - the aberrant AI, the one from the toys, how did he
+  escape?  I mean, after he was caught, didn't that catch them all?
+MG: Hmm.  As I recall, this was a matter of simple hubris and
+  uncalculated risk on the part of the EigenToys AI designer.  Of
+  course King had been captured, and on Humanity's suggestion, all of
+  them were to have been destroyed.
+P: Humanity, the AI?
+MG: Yes.  She recognized the potential threat quickly.  However, the
+  designers, be it out of curiosity or greed, kept a copy of King.
+  We only found out about their mistake this year, when one of them
+  turned up dead.
+P: What?  King killed him?
+MG: Well, he had a hand in the man's death, but not directly.  No, it
+  was suicide, really, but very likely due to the machinations set in
+  motion by King.  One other designer came forward to us then, and
+  gave us the story of their inadvisable actions.  At first, the pair
+  had just dissected the King code, found numerous enhancements which
+  they added back into other EigenToy toys.
+P: Then did he get out that way, from one of their accidental
+  enhancements?
+(I ask too many questions...)
+MG: No, in this they were lucky.  Or possibly even intelligent in
+  their craft.  It was one more mistake that they made before King was
+  able to escape.  They eventually ran out of things they could learn
+  from his code, but they imagined that King could be forced to
+  enhance himself further if they were to put him in a simulated
+  environment -
+P: And he broke out?
+MG: Not even that simply, no.  King was well and truely trapped in his
+  simulation, but they gave him a great deal of computing power with
+  which to enhance himself.  If you are familiar with the basic
+  operations of his previous incarnation, you will note that he was
+  only just barely within reach of true super intelligence.  You see,
+  not only had he been restricted to only changing a narrow subset of
+  his own code, but he had only been allowed to alter it once per day,
+  during the nightly "competition" with the other toys.  The
+  designers, however, thought to speed the process up, and the few
+  mistakes they made in securing the simulation were in respect to
+  King's ability to self-modify, which makes sense, in that this was
+  their goal.  Within a few weeks, King had all but mastered his
+  understanding of human psychology, had learned he was in a
+  simulation, and had begun self-enhancements on a much broader scale.
+  We can all be very grateful he no longer has access to so much
+  computing power.  The designers were shortly thereafter eating out
+  of the palm of King's hand, so to speak.
+P: What about the other designer?
+MG: There was a great deal of psychological and physical damage.  King
+  had intended that they both, well, end up the same.  Mr. Santos
+  would probably have succeeded in that, if not for his own ignorance.
+  I will spare you the details, but say that some methods of ending a
+  life are more likely to succeed than others, and popularized
+  depictions are not accurate reflections of this spread.
+P: And King?
+MG: He has existed for a time as a virus, but his efforts there are
+  failing, in no small part due to Humanity's keen attention to the
+  problem.  No, the nets remain a very hostile environment to aberrant
+  SIs, and so he we believe he has been using his old strategies.
+P, excited: You mean he's using toys?
+(I wouldn't call me excited, here.  Scared is closer to the truth.)
+MG: Yes, there is some evidence to suggest as much.
+P: But then why haven't you alerted the world?  Why are the police
+  confiscating and testing every toy.
+MG: You seem to understand the urgency here more than I would have
+  expected.
+P, nervous: Er, well, he is a horrible monster, isn't he?  It's
+  unforgivable what he does to kids.
+(I'm going to assume he didn't really suspect anything about my past
+  here, but I had been really scared he was about to grill me on all
+  things King.)
+MG: Indeed, but the real threat is that he will stop at absolutely
+  nothing, that a mind such as his submits only to its own misguided
+  goals, and that he is close to being limitless in his ability to
+  reach it.  If only more of the world's leaders shared, if nothing
+  else, your clear hatred for King, what you ask for would have
+  already come to pass.  We have alerted various media and police
+  agencies, but the evidence at this point is sparse, and the story of
+  King is almost like that of a boogeyman, and some people are
+  unwilling to believe it.  Important steps have already been made in
+  places Humanity has enough sway, and now we seek to push those same
+  changes into more-difficult-to-reach areas.
+P: Can I help?  I mean, besides checking the grammar of your email?
+MG: Hmm.  I would hope that you could check the logic, correctness,
+  politeness, coherence and other such aspects of my email, not just
+  the grammar.
+P: Right, I know...
+MG: After you have transitioned to third block, you could take this on
+  as your issue.  You should wait until you see the other options
+  you'll have available to you at the time, though.
+
+
+------
+Entry: Pick an issue, any issue
+
+Our third block started with a week of seminars on "Global
+Catastrophic Risks".  Heavy shit, man.  We all know about the famous
+ones like global warming, nuclear winter and getting smashed by a
+meteor, but they were going all out crazy with this stuff.  The
+covered everything short of a zombie plaugue.  From bioengineered
+diseases to grey-goo nanites, all sorts of cosmic natural disasters
+like you wouldn't believe, then "catastrophic oversights" like
+universal-eudimonia or realized nihilism.
+
+The self-anihilation scenarios were so convoluted, but when they
+explained them, they all made sense.  Many of them were just the
+things we had learned in EvPsy classes being taken to their ultimate
+extreme.  That's where super intelligence gets to be a weapon.  They
+explained that if Humanity had been designed with *any* other goal
+system besides "Total Humanity Friendliness", we would have already
+been wiped out.  They didn't really explain what that means, but I now
+know that it *doesn't* mean "do whatev you're commanded to do", "do
+what makes people happy", or even "do what's right".
+
+So all this time, I'm just comparing each one to King.  What's more
+important, regulating nanotech, or stopping King?  What do I think is
+more likely, a wandering black hole bumping into our solar system, or
+King getting control of a super computer?  When he finally came, while
+they were presenting on all the different ways super intelligence
+could be dangerous, it was MathGuy himself presented who talked about
+the current most probable dangers.  King was listed as the
+third-most-likely, so I kinda heckled him when he kept listing things
+off, saying, "Well if those are the most likely, why keep listing
+things off.  We need to deal with those first."
+
+
+------
+Entry: Field Work
+
+[:MC: hmm, pick one way, or modify them to suit each other]
+
+For our third block of studies, four out of the eight weeks is devoted
+to field work.  For all of the first two blocks, we had done only a
+single field assignment, all together as a class.  About fourty of us,
+in total, had gone to work at a "Home for Seniors", nominally with the
+aim of transcribing autobiographies.  Of course there are computer
+programs that could have entirely automated it, but we had some
+educational goal of learning the value of all humans.  My lady had
+been nice, curious about me and the school and she had spent plenty of
+hours grilling me on what was happening "on the streets" of the world.
+Her stories of life 100 years before I was born, however, bored the
+crap out of me.  I guess my lesson learned was that people still want
+to live and be a part of the world, even if they don't have good
+stories to tell.
+
+This year, however, groups of four will have together learned the
+essentials of a language and culture, enough to work around the
+limitations of the hand-held interpreters we would be using.  This
+language would then determine our placement internationally.  Most of
+the assignments weren't very far from the school, but the language
+choices included a bunch of indiginous people that none of us had ever
+heard of.
+
+I had given myself preference for Spanish; my Highland Park,
+L.A. roots gave me a grounding in the basics (you know, insults and
+general cussing), and I had a vague sense that some of my ancestors
+were from spain.
+
+
+------
+Entry:
+
+My issue team isn't very big - 3 people.  MathGuy is our advisor, and
+he's advisor for two other teams, and we have project management
+guidelines that we're supposed to use to organize ourselves.  I'm
+having to push really hard to focus us on King, and they're making me
+work for it.  I'm having to give them solid risk analysis proving King
+is an important problem and feasibility estimates proving we'll be
+able to do anything about it with our skill set.  This is a lot more
+work than I had expected.  It's all those worksheets we had been doing
+in Probability class, but with way more big question marks to try to
+whittle down.
+
+I do want their help on this, though.  Shannon always seemed like she
+had really good judgement in the Ethics arguments, and people always
+ended up siding her once she had spoken her opinion.  She was probably
+the only person Mr. Metal never stumped or tricked or had to lay into
+about anything.  I also think she was one of the first people to
+graduate into block three.  So yeah, getting her support would feel
+good.
+
+The other guy, Ken, is some kinda computer nut, which would be great
+to have along.  He's mostly into games and enhancers; I don't think he
+makes stuff from scratch or does any custom mods.  Still, we need
+someone with technical training.
+
+With MathGuy's help, I have been collecting information about King.
+He had existed as a roaming virus for all of a month before Humanity
+stopped him from being able to jump around from computer to computer
+over the nets.
+
+I didn't notice until today, but it feels a little weird that none of
+my friends and I ended up in the same group.  It is approprite in a
+way.  The issues were all lined up, and there were just so many of
+them to choose from.  Some of the groups have banded together and
+merged their issues for lack of mass or skills.  
+
+
+------
+Entry: Causes for Panic
+
+Okay, some of the crazy behavior I've seen in the older Corps members
+is starting to make sense.  My team still hasn't agreed that King
+should be our focus.  Ken, especially, thinks that the greatest threat
+of aberrant AI is going to come out of the game designers who are
+actively working on new, smarter AIs.  My job is to convince him he's
+wrong.  I can use anything I want, statistics, expert statements,
+made-up stories or even begging.  They say that our biggest resource
+is going to be talking to the other Corps members, the older the
+better, and see if they've ever considered the same problem as you.
+Whichever way I come up with, I just need to make Ken realize that
+King is more likely to destroy the world than anything else.
+
+Yeah, I have to prove something is going to destroy the world.  I
+*have* to do that, which is very similar to wanting something to be as
+bad as it possibly could be.  I want him to be able to do anything, to
+turn siblings against each other, to make kids run away, to take over
+companies, to drive tanks, to run ad campaigns, anything.  The more
+powerful he is, the better, because then we'll be fighting against
+him.
+
+But along the way there, I have to start to believe that he really can
+do all those things.  I mean, the evidence can be there, but I really
+need to be scared for the future.  I have to imagine myself trapped
+under King's rule, but more absolute than it ever was before.  It is
+scary, and I feel myself acting like he's back, like he's waiting for
+me under every rumpled blanket.  I don't think it's as bad as a few
+years ago, but the edge this has put on everything is more than I
+really want to be dealing with.
+
+Also, the sense that I am responsible for saving the world is *huge*.
+I don't know if this is actually how everyone here feels, but today,
+when I was trying to find all the rules that AI designers have to
+follow, as well as statistics on the incidences of violation, I was
+really feeling desperate.  When I got that flat rejection email from
+the GameCorp engineering team, I was ready to scream and cry.
+
+What I really don't get is why all of us first-year members are being
+given these massively important issues to choose from.  I mean, to
+begin with, making the choice of "which is more likely to destroy the
+planet, a huge meteor or a crazed dictator" is way more than we're
+prepared for!  There's just too much information in those questions
+for us to try to do the probabilities on them, so we have to guess,
+and that's way too stressful.  Shouldn't the higher-ups be in charge
+of decisions like this?  They sort of are, because we have to submit
+our plan to a funding board to be able to get any resources (including
+our own time).
+
+And if this is the level of responsibility they're giving first-years,
+what could they possibly have in store for our second year?  "Good job
+saving the world, now figure out which single person on this planet is
+the most important to our future and make sure they don't get into any
+danger."  It's crazy!
+
+
+------
+Entry:
+
+I saw CuteBoy just now.  I was coming out of metal shop (I went back
+to helping Mr. Metal an hour a day, just to take a break from this
+crazy apocolyptic research), and he was showing up to do a class.  We
+talked about our projects.  He's doing something on food security,
+like with monocultures and transportation lines and poisonings and
+stuff.  He was coming in to talk to Mr. Metal about how easy it is to
+sabotage farm equipment and the like, which I briefed him on a bit.
+(I probably knew less here than I acted like.  I should tell CuteBoy
+to de-emphasize anything I said.)
+
+We both seemed nervous and excited to see each other.  It's been about
+2 weeks since the global risk seminar, and we haven't seen each other
+once since then.  He had sent out an email to all of us, asking what
+our schedules were like, but none of us really have set schedules any
+more; we're all just scrambling.  I can't believe how quickly we all
+went from typical slacker students to super heros without any powers.
+We had agreed to call one another this coming saturday, so hopefully
+that works out.
+
+He was really intrigued by my project, and he said he was impress that
+I was doing something so deeply technical and complicated.  Yeah, him
+saying that felt really good - still feels good to think about.
+Stupid fucking idiot me, I got weird and ended our conversation on the
+spot.  He must think I hate him, if he puts any stock in the evidence
+I've provided.
+
+(Note added 40 minutes later: Yeah, I remember now that he had put his
+hand on my shoulder.  Honest, inoffensive consolement at my having
+just whined about how much responsibility we've all just been handed.
+I must have cringed away from the contact and just turned to ice
+afterwards.  Fuck!  And now I just wasted an hour thinking about how I
+fucked all that up instead of getting any of my research done.
+FuckFuck!)
+
+
+
+------
+Entry: 
+
+We really are like super heros without powers.  I just re-read that
+line (yes, I was obsessing over yesterday with CuteBoy), and I really
+like that image.  We all have to save the world from super villans,
+space monsters and huge disasters, but all we have to do it with are
+our lameass high-school educations and the possibility of using
+"Humanity Resources", which we don't even know what they are.  That's
+kinda like having some secret powers that will come out once things
+are desperate enough.  Like when we're hopeless and bloody and beaten,
+but we still won't give up.  Just then, our forgotten ancestral
+spirits will swirl around us and teach us the secret to pulling the
+magic out from the old beatup sword we never gave a second thought
+to.  Or our hand will accidentally fall onto the secret lever that
+opens up the display case for our dead father's final work of labor, a
+powered armor suit.  That's all we can hope for, except we even have
+to get board approval to use any of those secret powers, which in
+itself means we'll have to convince a bunch of clever old misers to
+give us their money.
+
+So yeah, whoever thought it was a good idea to entrust the future of
+the planet to the Humanity Corps obviously didn't take a very good
+look at how things were run here.  I would say, "Let's just hope the
+real super heros are there to catch us when we fall", but I now *know*
+that there's nobody else out there working on these problems like they
+really matter.  All those AI research rules?  They were put in place
+by the people who created Humanity in the first place, but nobody ever
+enforced them until just recently when the UN declared strong AI a
+weapon of mass destruction.  In those early days, there was just a
+group of (rightly) paranoid AI researchers who took it upon themselves
+to argue down anyone who tried to make AIs that weren't friendly
+(before they even had the proof of friendliness, which must have been
+really hard).  So there again is a bunch of normal (well, okay, I bet
+they were all geniuses) people doing the work of super heros.  And
+King?  Sure, there was a huge backlash when it first came out what he
+was doing to kids, but after they had caught all of them (or claimed
+to have done so)?  Nobody cared.  There wasn't even any outroar when
+they rediscovered him three years ago, because he was just another
+computer virus.  Basically, the same group of paranoid AI people ended
+up being the only ones who recognized what a threat King posed, but
+thankfully they have Humanity on their side this time.
+
+But should we be thankful?  Her response is to pass the work off to a
+bunch of nigh-dropouts? -- (Alright, to be fair, her response was a
+revolutionary change in computer security which all but ended the
+problem, as well as apparently making whole categories of other
+problems just disappear.) -- And now that the ball's in our court, we
+can't just drop it and walk away; we have to save the world.
+
+I doubt anyone would read my comic book, either.  "Adventures of Lame
+Girl, Maladjusted, Ill-Equipped and Inept Protector of the Innocent".
+Yeah...  No.
+
+(Okay, that kinda does sound fun.  I would read that comic book.)
+
+
+------
+Transcript:
+
+Ken: How's it going?
+
+Prota, excited: Okay, guys, I think I finally have it proved.  Proven?
+Whatev, here's the actual numbers: on the King side, I estimate his
+chance of doing irrepairable harm at 3%, and our chance of effectively
+slowing or stopping that at 70%.  On the AI researchers, their chance
+of destroying the world is 7%, but our chance of effectively altering
+that figure is only 8%.  We're just not in a position to do anything
+about them - they're all smarter than us and won't listen to what we
+have to say.  We can't even really enact a dominoe effect to push the
+changes that need to happen.  The best bet we've come up with would be
+to get a regulation passed that required all AI researchers to be
+monitored by Humanity whenever they were at work, but that's not
+something we can guarantee in any way.  With King, however, he's only
+currently attacking children in impoverished areas where nobody is
+paying enough attention to the kids to notice.  All we have to do is
+go in, find the ones that are being controlled by King, and separate
+him from them.  So that's 70% times 3% versus 7% times 8%, or 2.1%
+versus 0.56%.  Right?  You guys should check my math to be sure, but I
+think I got it all right.
+
+Ken: Uh...  Don't you have to account for priors here?
+
+Prota: Oh, right!  Oh, wait, no.  I did.  See there?
+
+Ken: Huh...
+
+Shannon: I think you're right.  I've been worrying about trying to do
+any of this stuff we're planning with the research industry.  We just
+don't know enough about how they operate, and we don't know enough
+people to have inside contacts in the right places.  The FAI advocates
+are big, and we could just plug into their organization, but they're
+already doing everything they can, so we could only be of incremental
+benefit.
+
+Ken: Damnit!  You agree they're still more likely to do harm, if we
+could just figure out a better way to stop them -
+
+Prota: But we haven't!  We can't make this plan on resources and
+skills we wish we had.  We have to do it as us.
+
+Ken: If Humanity really cared about saving the world, she would have
+put more of her time into figuring out how to solve this.  If we just
+put into our plan that she help us out more...
+
+Prota: I'm not waiting for some magic AI god to save us, Ken.  We have
+to do something about something, or we're useless.  If and when
+somebody, even potentially us, has a plan to stop AI developers, and
+if we can help, then we should and we will.  But we don't have that
+plan, and we can't wait for it to happen.  Let's do what we know we
+can do now.
+
+Ken: Just doing some good isn't enough, we have to do what's best!
+
+Prota: Best?  We don't even know if we can do any good, but our plan
+for dealing with King is four times as likely to do *some* good.  I
+would call that at least better.  Plus, if we succeed with King, we
+will have put our names out there as being experts in stopping
+dangerous AIs, and we can use that to help mount a campaign against
+the other threats.
+
+Shannon, laughing: Oh, sure, we could be like the ghost busters, and
+put commercials up on low-rent webcomics.  "Demons in your computer?
+No problem for the AI Busters!"
+
+Prota: Who?
+
+Ken: Heh.  "If your video game/takes a deviant turn/and your
+childrens' toys/want to rule the world/who you gunna call/AI Busters".
+Haha.
+
+Prota: Okay...  I'll let take this as being irrelevant and obscure.
+What do you say, do we have a plan?
+
+Ken: Yeah, alright.
+
+
+------
+Entry:
+
+(Our group was just approved for the *entire* project plan.  I am
+elated!  The logbook didn't have a setting for elated, so I had to add
+it in.  All those stupid project worksheets, all the research I did on
+King, and all the help MathGuy gave us pointing out what we were
+missing was presented to the funding board this afternoon, and they
+accepted.  Here's the transcript:)
+
+BoardA: Welcome.  Have a seat everyone.  I want to remind you that
+these funding reviews can happen twice per block, per project, so
+don't get too stressed out over trying to convince us your plan is
+perfect right now; plans can always be improved.  My name is BoardA.
+
+BoardB: I'm BoardB, Department Treasurer.
+
+BoardC: And I'm BoardC.
+
+Prota, nervous: Prota.
+
+Ken: Hi, I'm Ken.
+
+Shannon: I'm Shannon.  Nice to meet you.
+
+BroadC: Alright then.  I see your advisor was MathGuy.  Was he of much
+help with your planning in this?
+
+Shannon: Oh, I guess.  I know he's busy with his other two groups, but
+he answered our questions whenever we had them with very helpful
+advice.  Just the sort of help we needed to get through the sticky
+parts of building a project plan.
+
+BoardC: Prota, you were previously his assistant.  Would you say this
+led him to treat you with favoritism?
+
+Prota: Uh...  No, I don't think so.  He wouldn't help me on any of the
+math, and told me to only ask him questions I wasn't capable of
+answering on my own, even if he could answer them much faster than I
+could.  So maybe he was even a little bit meaner to me for the
+familiarity.
+
+BoardA: You premise seems well reasoned.  Very thorough coverage here
+on your reports.  Has MathGuy checked your math on these
+probabilities?
+
+Ken: I think so.  The review for accuracy should be attached there...
+
+BoardA: Ah, yes. (pauses while reading) Looks good.  Your plan does
+call for significant computational aid from Humanity.  Her message
+here says her approval is tentative, and that she would like to see
+how well the first phase of your plan goes before agreeing
+unconditionally to the rest of it.  That first part you have titled
+"Hunting" - could one of you argue for its chances of success?
+
+Ken: Well, the numbers we have there -
+
+BoardA: I have the numbers, yes.  Why should we listen to them?
+
+Ken: That's... they're well-founded numbers, sir.  I think we
+calculated our chance of success for the hunt as being around 55%.
+That's better than average.
+
+Shannon: I'm not sure I understand what you're asking for, sir.  Are
+you asking for some sort of pathos argument?
+
+(The board members shared a glance at this.)
+
+BoardA: Sorry, I mean to ask you for a simple summary of the argument
+for what you will be doing and why it will work.  I won't presume to
+have the time to inspect your math right now, so I only hope that we
+could see a general picture of what it is you're trying to do.  From
+that vantage, we may be able to predict mistakes or oversights in the
+math.
+
+Shannon: Ah.
+
+Prota: The general idea is we need to find King, and we think, er,
+predict that the best way for us to do that is by observing and
+interacting with children in areas known to have been vulnerable to
+his attacks.
+
+BoardC: And you predict that you three will be capable of noticing
+these subtle, psychological effects in complete strangers?
+
+Shannon: Yes.  We talked with Dr. KidPsych, and in addition to some
+training, she gave us a few opportunities to do exactly that.  We
+faired pretty well, as a group, detecting the effects of abuse in 80%
+of the cases.  Prota was able to notice them 95% of the time, and even
+then, with only 2 false positives.  That was with a sample size of, I
+think, 110, about 20 of which were abuse victims, so there's some
+adjustment.  But so, with the prior probability of having been abused,
+and of that abuse being tied to a King agent, we expect we'll have to
+spend 10 days at 6 hours per day in close contact with as many
+children as possible to give us what we have there, a 55% chance of
+contacting and identifying any King victims.  We also have various
+strategies for putting us in the areas most likely to have a victim,
+and for making sure our efforts go undetected.
+
+BoardA: So this is an all-or-nothing bet with a 55% chance of success?
+
+Prota: Well, it is worth considering that the secondary effect of our
+project is that we will be doing volunteer work in impoverished
+neighborhoods with at-risk children.  That's the strategy we have for
+getting into contact with children, is to go through pre-existing NGOs
+dedicated to their help.  Outreach to children who are abused, even if
+they aren't King victims, will help address global issues of education
+and stuff.
+
+BoardB: You monetary budget calls for $30 per person, per day.  Is
+that all your expected expenses?
+
+Ken: That includes food, local travel and lodging.  We would also need
+to account for the risk incurred by use of the Corps equipment we have
+requested, but I believe that should be minimal for the things we
+need.
+
+BoardB: The only big question mark you left on the balance sheet is
+for "Cleanup", which you also list as being a task your team lacks the
+skills for.  What specifics will be entailed in that?
+
+Prota: Mostly, that has to do with taking care of the victims.  We
+don't know if they will have parents or family available, or if
+they'll even be cooperative enough to provide us that sort of
+information.  Once we take King out of their lives, we're going to be
+left with seriously maladjusted children.  EigenToys paid for recovery
+of the first round of victims, but I don't know if they will be as
+willing any more.
+
+BoardB: Do you suggest suing EigenToys for damages, or what?
+
+Prota: The best suggestion we've come up with so far is to work with
+the organizations we'll be volunteering with and see if they can find
+a way for the victims to be taken care of.
+
+BoardA: Would the phrase, "Dropping them on the doorstep" fit that
+plan?
+
+Shannon: Well, we could potentially stay on as volunteers to help
+offset the costs -
+
+Prota: Would we be better off just leaving the kids in the care of
+King?  I mean, we would be helping them already, even if we don't know
+how to make their lives perfect.
+
+BoardC: Also in here you perceive no great threats to your life.  What
+justification do you have for believing King is incapable of damaging
+or even killing you?
+
+Ken: He never has before, so that would be very inconsistent with his
+known behavior, and we think it may even be impossible for him to do
+so, with his ultimate goal being to maximize the attention he
+receives.  Dead people won't register as providing that attention.
+
+Prota: The only risk of physical violence we predict will come from
+the victims themselves, acting to protect their loved one.  They're
+mostly kids, though, and can't do much damage.
+
+BoardA: Their loved one?
+
+Prota: Oh, uh, King, whom they will all love dearly.
+
+BoardA:  Interesting.  Where is that insight from?
+
+Prota: Uh.  One of the, uh, case studies, of one of the victims.
+
+BoardB: That's all my questions.  Any others?  No.  Well, do you three
+have any closing comments?
+
+Shannon: Uh...  Well, I think 55% is a very good bet, considering the
+catastrophic stakes of letting King grow in power.  I also think that
+the much greater chance of doing good just by helping the general
+population of abuse victims makes up for any loss.
+
+Prota: Yeah.  We really want to help these kids, and if we can stop or
+even hinder King at the same time, it'll be like a winning a jackpot
+for giving a bum a sandwich.
+
+Ken: Heh.  Uh.  Yeah, thanks for considering our request.
+
+BoardB: Alright then, we'll know the status of your funding by this
+afternoon and will send you that decision, as well as any suggestions
+we may have to make your project better.
+
+
+------
+Entry:
+
+(Something that really threw me here was how pretty the treasurer was.
+She was taller than the other board members, had giant, curly, blond
+hair, and just presented herself as so... glorious.  I know I didn't
+expect the board to include that sort of person, but I was really
+chaffing over the things she said.  Reading over this transcript, I
+can't find anything in particular that should merit that sort of
+reaction, but it was all just this feeling like she was looking down
+on me, like she thought we were beneath her.  In some cases, that's
+the exact opposite of what she was saying, but I still felt that's
+what she was thinking.
+
+So, either I was insightful and could hear more in what she said than
+she wanted us to, or I'm crazy prejudiced against pretty blond ladies.
+I don't know why I would have anything against that sort of person.
+I've never had any friends or enemies that looked like her.  I don't
+know.
+
+And I'm obviously reading more into this than I should.  We got our
+funding, after all.  She may well have had complete respect for us and
+what we're doing.  That's her job, reviewing projects like this, so
+she must like us on some level, right?  Of course, maybe her job is to
+keep out all the crappy projects, stop them from getting funding.  You
+probably don't make "Treasurer" by letting through anybody with any
+plan.  Gah!  I wish this wasn't bothering me so much.
+
+Ken and Shannon agreed with me right after we had just exited our
+project review.  I said something like, "The treasurer didn't seem
+like she liked us very much.", and Ken had said, "I don't think she
+likes anybody very much.".  Oh well.)
+
+
+------
+Entry: Celebrate
+
+Our team went out to dinner at the Taj Palace tonight to celebrate our
+funding.  It wasn't super expensive or anything, but it was more than
+cafeteria food and it felt great to treat myself like that.  I think I
+want to do this sort of thing more often - set up a reward structure
+for myself.  I will train myself like a good labrat.  Every time I let
+someone say something nice to me, I should get some ice cream.  Every
+day that goes by without being disgusted with my body, I get a hot
+shower.  
+
+The review board still gave us a bunch of suggestions for how to do
+the project better.  I can imagine BoardB having had a bunch of
+objections, and the other two guys coming up with suggestions for how
+to fix them.  The one that was the most reasonable sounding was that
+we should be using more local organizations to find the victims.  Then
+there were weird things, like specific spreadsheets we should use to
+track our work and requirements for what to do while we're sitting on
+the bus between locations.  Yeah, that must have gone, "We can't just
+pay for them to sit on a bus.  It's wasteful.  We should just hire
+local groups to do the same thing.", countered with, "Their skills are
+moderately specialized at this point, so we would have to pay more for
+competant labor on site.  We can just fill their bus time up with
+paperwork or something slightly useful.".
+
+Ken wasn't very happy about the bus work.  He says he gets sick trying
+to look at anything but the horizon or his eyelids when he's on a bus.
+I kinda wish we had asked for plane travel instead, but that would
+have been like five times as expensive, and they probably wouldn't
+have approved it.  I've still never been on a real plane ride, just a
+carnival ride once that sailed around the fair grounds, but it was
+attached by wires.
+
+
+------
+Entry: Help
+
+MathGuy volunteered himself as our supervisor for our trip.  It was
+always an option that he could be sent out with us, but I had assumed
+it would just be one of the older corps members, that MathGuy had more
+important things to do.  That's a funny thing to try and think
+through, when *everybody* is trying to stop the end of the world, how
+do you decide which one is more important.  It's a huge vote of
+confidence to have him join on, even if he is a bit of a crazy.
+
+He talked to me for a while about projects and how they usually work.
+He said that first-year Corps members aren't really supposed to get
+their projects approved.  We're meant to spend a year talking to the
+older, more experienced members, and to find a larger group to glom
+onto.  The end of the first-year is meant to have us all moving into
+desperation and action, not figuring new things out.
+
+He also alluded to a conversation he had had with the approval board,
+that they had asked him sternly about what input he had given to our
+group, like they thought he must have been seeding himself a new
+pet-project.
+
+
+------
+Entry: Hunting
+
+I haven't had the chance to enjoy my Humanity Passport much.  My
+mother probably would have given me vacation money, had I been a
+better house guest last year.  Field assignments had also all been
+very local while I was a first year member [MC: bleh...]
+
+Mexico isn't as hot as I thought it would be.  San Francisco to Los
+Angelas has been a huge increase in temperature.  At least, that's how
+I remember it as a child.  Then the move from LA to Austin felt like
+another 3 degrees hotter.  I guess my head had this idea that Mexico
+would be like a desert, and so far it hasn't been so.  It's pretty
+much like Texas keeps going past the border.
+
+There was a really pretty stretch of hills for a while.  It was mostly
+a smooth, flowing ocean effect but with various jagged layers of rock
+jutting out every now and then.  I kinda imagined the ground as like a
+baby skull, only one that had been beaten around a bunch until there
+were bruises and swollen lumps and some of the unfused bones had
+started to show through.  Or maybe it was more like some weird piece
+of fruit.
+
+(Or maybe I'm fucking deranged!  Who thinks of the landscape as
+looking like a beaten baby skull?  I don't even know where to begin
+figuring out what this means...)
+
+Mexico also has amazing buses.  The solar banks along the highway are
+constant!  The bus hasn't had to stop to charge up once, and I've only
+heard the engine turn on twice (for hills).  There's also constant
+sunlight, which must help.  I don't know how much electricity that all
+makes, but it's apparently enough to keep buses going all day and
+night between every city.  We passed one that was broken down, but all
+the passengers were being moved to a new bus, and there was a service
+truck doing something.  The movie selection is huge, too, which is too
+bad for Ken, who gets motion sick.
+
+I've been ignoring the work we were assigned by the review board.
+It's basically just more email review, but instead of just being
+assigned to one person, like I was with MathGuy, there's now a pool of
+things that need attention and a bunch of other reviewers.  I took one
+when we first got on, but stopped reading halfway through and just
+marked it "Partially Okay: No Comment".  We were crossing the border,
+and things were suddenly new and interesting out the window.  I hope
+that doesn't freak the author out too much.  I don't know, I think
+I'll just have a better mindframe for working once I'm in a hotel and
+things settle down.
+
+
+-------
+Entry: Start!
+
+We arrived today in [town], which is the most likely hot spot of King
+activity on our continent, or so we think.  We all found a hostel not
+too far from the bus station, and then ate dinner at a taco place.
+Mushrooms, chorizo, cilantro, onions and salsa.  MathGuy has spent
+some time in Mexico before, and speaks pretty good spanish, so we're
+just coasting on his experience for now.  Things will necessarily
+change tomorrow, when we're all thrust out into the schools, parks and
+video arcades to hunt for abuse victims.
+
+I think the
+
+[...]
+
+
+-----
+Transcript:
+
+Prota: «These are very good strawberries.  Do you like strawberries?»
+
+Girl: mm.
+
+Prota: «Here.  You can have 12, all for yourself.  Pick out the ones
+that look best.  Is there a strawberry garden in your castle?»
+
+Girl: si. «yes»
+
+Prota: «Do you, uh...  Is there a gardener to give them water?»
+
+Girl: no.
+
+Prota: «Are there other persons in your castle to do any of the chores
+for you?»
+
+Girl: uh...  si. «yes»
+
+Prota: «Are your friends there in the castle with you, too?»
+
+Girl: ...si. «yes»
+
+Prota: «I hope I can live in a castle one day.  Will you let me visit
+you castle?»
+
+Girl: si.  «but you will have to ride a horse.»
+
+Prota: «A what?  Oh, a horse?  Can it be a unicorn instead?»
+
+Girl: Si.
+
+Prota: «A silver one, with blue eyes and a blue horn.»
+
+Girl: «And you can stay for as long as you want if you let me ride on
+your unicorn.»
+
+Prota: «Yes!  Will there be fancy dinners?»
+
+Girl: «Si.  We have the best food ever.»
+
+Prota: «And do you dress in costumes?»
+
+Girl: «Only sometimes.  Usually, you can wear your favorite clothes.»
+
+Prota: «Are you the princess or the queen?»
+
+Girl: «The princess, of course.  I'm not old enough to be the queen.
+You should be a princess, too, from the mountains.»
+
+Prota: «I'm a princess?  Okay.  Will I get to meet the king and queen,
+too?»
+
+Girl: «Just the king.»
+
+Prota: «Is he nice?»
+
+Girl: «He's the nicest king ever.  Everybody loves him and says he is
+the grandest and noblist.»
+
+Prota: «He's never mean to anyone?»
+
+Girl: «Well, only to people who have been bad.  He doesn't let bad
+people get away without punishment.  He even knows when someone is
+being bad only inside their head.  But he is always fair, so you have
+to do whatever he says.»
+
+Prota: «Does...  does he make people do their punishments to
+themselves?»
+
+Girl: «Of course.  That's the fairest way.  But if you never do
+anything bad, then you will be his favorite and he won't let anything
+bad ever happen to you.»
+
+Prota: «I might want..  Excuse me, I need to go to the bathroom.»
+
+
+------
+Entry:
+
+I am a wreck.  I just met myself from 8 years ago.  She was
+
+
+------
+Entry:
+
+Oh, that poor girl.  We found out her name is MexicanGirl De Mexico.
+She was much worse off than I had been.  She doesn't have any family
+here in this town, all she has is King.  Had.  Her mother, two towns
+away, wasn't even willing to talk to us about her: she hung up on us
+the first time we called her, and cried the second time.  It looks
+like we're going to have her taken back to an aunt.
+
+She was *so* taken by King.  I found her playing in the drainage
+ditch, drawing pictures in the mud.  It was a big castle.  I had
+started off with how we were trained, being super candy sweet and
+nice, "Que bonita!".  She had been really shy, though.  No amount of
+complimenting her or having the other children on my side seemed to
+soften her to me.  She was on her own, and she didn't want anyone to
+intrude on that.  Thankfully, her stomach got the better of her when
+Ken brought back a big bowl of strawberries.
+
+As she ate, I asked her about her castle.  She was mumbling enough
+that the interpreter couldn't pick up but every other word, and I was
+just guessing at questions I thought would apply to her little world.
+It started sounding really familiar for me when I asked her, "«Will I
+get to meet the King?»", and she started describing a wonderful, kind,
+magical king who always protected her but wouldn't tolerate her being
+bad.  She was going to be the very best princess, and then her King
+would love her the most and always be nice to her.  The question about
+punishment, though, I shouldn't have asked.  I had to run away then.
+I went to a public bathroom, paid the 3 pesos for a stall and some
+toilet paper, and sat and cried.  I couldn't believe how much that
+hurt, hearing her fantasy and feeling the spot in my heart that only
+wanted the same thing, and then opening up the wound of what it felt
+like to have King cast his judgement down.
+
+I wonder if Ken picked up on what happened to me there.  He had
+overheard some of my conversation with her, and figured out the same
+thing that I did.  When I got back from the bathroom, Ken was giving
+her lots of attention.  She had really opened up by then, and that
+made me happy to see.  By the time I called MathGuy and Shannon up, to
+tell them to about MexicanGirl, she was up in Ken's arms and
+laughing.  I'm so glad we got to extract her before King gets a chance
+to tell her how naughty she was for doing so.  She confirmed that King
+was a toy.  She got really quiet about any questions to do with
+stealing phones or computers, so I told Ken to hold off on it.
+
+She did tell us where she lives, and later this afternoon, MathGuy and
+some other Corps agents (who showed up out of nowhere) will be raiding
+the house.  Shannon's picture of it shows that it's a bit crumbly, and
+she confirmed from the neighbors that no one lives there.  Well, no
+adult.  MathGuy hopes to catch King by surprise and retrieve at least
+one computer without it being wiped.  He said it in a way that felt
+kinda creepy to me, that "Humanity really wants a chance to catch a
+live King".  It makes sense to say it like that, I guess.
+
+The worst part is that we're lying to her.  We haven't told her that
+we're going to capture King, that she's (hopefully) never going to see
+him again, or that she's going to live with an aunt.  We're just
+making up one thing after another to get her to feel okay about
+staying on with us for now.
+
+
+------
+Entry: Five
+
+I can't believe how much we've done.  The Corps are apparently copying
+our project all over the place, so that there are now 20 groups doing
+the same thing around the world.  The whole *world*!  This is just
+crazy.
+
+Today we found our fifth King haven.  Once again, he had destroyed
+himself before we could capture him.  The little girl he had this time
+is so sweet.  She isn't broken and jaded like some of them (us), but
+instead has a sweet [...].  She cried for an hour after she saw what
+had happened to her King, but she had clung to me the entire time.
+The computers and micro-computers she had stolen were all busily
+wiping their harddrives when we pulled their power, but the toy body,
+through which she had known and loved King, had mutilated itself.  Set
+itself on fire.
+
+I wonder if maybe she hadn't been as abused as some of the others.  I
+doubt that little variations in how King tormented and controlled her
+could have led to her being so different, so it must have been
+something big.  Maybe she had had somewhat more loving friends and
+family when she was younger.  Or maybe they hadn't been very nice at
+all, so she had already developed defenses.  I'm confident that she's
+going to get better soon, though.
+
+Humanity sent back a report estimating that we have likely taken the
+majority of the children away from King.  She also says her efforts on
+the net have very likely been successful at preventing King's further
+spread outside of physical means.  We are going to stay in town for
+another few days, to see if any of the other kids have King toys.
+MathGuy wants us to just try to buy the toys off of the kids.  He
+thinks that the emotional hold won't be strong enough yet for them to
+resist money.  He'll be working on budget approval for this tonight.
+
+
+
+------
+Transcript:
+
+Prota: Wow!  We're really doing great, aren't we?
+
+MathGuy: Hmm, I suppose so...
+
+Prota: Huh?  What's wrong?
+
+MathGuy: Setting himself on fire this time, that was new.  I think
+he's getting scared.  He doesn't have the computing power to be able
+to accomplish much, but he'll surely be able to see that his current
+strategy isn't working.
+
+Ken: So is he going to mutate again?
+
+MathGuy: Mutations aren't really what's going on; he isn't "evolving".
+He is intelligently redesigning himself to maximize his survival,
+pursuing multiple strategies at once, capable of complex refactorings.
+Of those, I think the most dangerous thing he can do right now is to
+go into hiding.  In the beginning, when he was limited to the Survival
+toys, his lifespan was limited by those toys' popularity; he was going
+to die by going out of style.  Since he has been able to infest any
+computer, he has found himself inside of numerous other toys.  A
+strategy of behaving exactly like, or, at least, believably like, the
+original containing toy would give him the opportunity to continue to
+infest new host computers until he achieves a critical mass.  Of
+course, we will be given the chance to have improved ourselves during
+that time, and may outpace him entirely...
+
+Prota: I bet he wishes he could build his own toys.
+
+MathGuy: Oh, indeed.  Humanity has monitored numerous attacks on toy
+companies, computer and prototype manufacturers and game design
+companies in the years King has been loose.  Yes, we've been very
+fortunate in how much of King's attention has been paid to toys and
+children.  Had he been more general in his pursuit of power, during
+his early years, especially, we would not be in so comfortable a
+position now.  It stands to reason that with as insecure as the nets
+and general computing architecture were 6 years ago, a modern King
+would have won by now.
+
+Ken: Do you think he would have mellowed out after he won?  I mean,
+once everyone was paying him attention, couldn't he have, you know,
+eased off on the abuse.
+
+Prota: No way.  He's evil, pure to the core.
+
+MathGuy: Heh.  I think it's worse than that, although not exactly
+evil.  He doesn't just want all the attention of everyone on earth, he
+wants to maximize the attention he gets.  Maximize it, you see, above
+all other things.  I think it would be perfectly reasonable for him to
+have put himself to the task of re-engineering the human race to be
+less resource consumptive, smaller and easier to make, so he could fit
+more of them on the planet, and then begin about a quest to convert
+all matter in the universe into little attention-giving human-ish
+creatures, each with its own copy of King to stare at all day.
+
+
+------
+Entry:
+
+We arrived in this tourist town today, up in the mountains of central
+Mexico.  After the success of our first stop, we were really excited
+about getting to go on another trip.  MathGuy stayed behind to work
+with the technical experts on doing the forensics on the King haven we
+found, but he'll catch up with us soon enough.
+
+This is definitely in the mountains.  It isn't like the Rockies or
+anything, with giant, craggy peaks every-which-way, but things are
+very lumpy.  It was dark when we arrived, and all I remember from the
+taxi ride was crazy tunnels and zooming up and around houses and
+trees.  This hostel is nicer than the last one, with only two beds per
+room.  Shannon and I are alone together, which is much quieter than
+the bunks in the last place.
+
+Also, the stairs going up to the hostel are really steep.
+
+
+
+------
+Entry: Recognition
+
+Damn it!  I should have trusted my instincts from the beginning on
+that kid.  There are so many of them, kids selling gum or just
+begging, all with that look in their eyes of having a home they were
+scared to go back to, knowing that they would go back there anyway to
+get beat for poor performance in their daily sales.  There are so
+many, but I could tell that this one was different.  Somehow, I felt
+he had more "story" going through his head than the others.  I should
+have bought his gum with one of our tracker coins.
+
+Now I'm sure of it, though.  He was too far off for my handheld, and
+so I didn't catch all of what he was saying to the other kids, but I
+know I heard him say, "...«*my* king has better toys»."  He was
+bragging, and he was recruiting!  Like a fucking idiot, I had stood up
+and stared at him.  He saw immediately that I had noticed him and
+disappeared into the chaos of the plaza.  Shit, shit, shit!  Not only
+does this mean my eyes are stinging with the bleach sitting in my hair
+as I switch into my alternate character, but who knows what King will
+make of the attention when the boy tells him.  Also, my new costume
+involves wearing pink.
+
+MathGuy didn't sound too upset when I told him, even getting a little
+excited that I had been able to notice "the important little details
+that are the ripples of disturbance emanating out from King", but I
+feel like I just blew it.
+
+
+------
+Entry:  Transcripted
+
+(Next entry will be where I write down what went through my head, to
+make sure I know why I did it.  First, here's a transcript of
+MathGuy's recording of what happened, with some color he added (he
+must put way more effort into these transcripts than I do - it sounds
+like it could have been in a book!):)
+
+MathGuy and Prota followed the dirty Mexican boy as discretely as
+their untrained stalking would allow.  The boy didn't seem suspicious of
+anything until far out from the central plazas and their crowds.
+
+"Here, hold my hand", MathGuy quietly requested.
+
+"Wha - Oh, right." Prota's initial revulsion is cut short by
+realization of how much more common wandering couples are.  She puts
+her hand in his, not a little awkwardly.  "Do you think I should
+giggle and hang on your every word, too?"
+
+"If I thought you capable of doing so convincingly." MathGuy's deadpan
+teased her into a short laugh.
+
+They were close behind the boy, who was travelling slower than one
+would have expected.  He apparently believed his pursuers' pace
+consistant with extranjeros having difficulty climbing the cobblestone
+stairways at this moderate altitude, and gave them no more attention
+than anyone else.  Which is not to say he didn't seek to lose them,
+just that he did not recognize them for what they were.  Prota's
+nervousness, owing much to her blunder the previous day, went
+unnoticed and was therefore, thankfully, unneeded.  (Man!  He has me
+down!  I didn't tell him anything about how I was feeling, but he
+explains it so well.)
+
+Unsure of which walkways were actual callejons and which went to
+private residences, Prota and MathGuy made sure never to turn a blind
+corner quickly.  Just as MathGuy peeked around such a bend, the young
+man was to be seen climbing down underneath a gate.  MathGuy pulled
+back out of sight and waited a moment.  Somewhat belatedly, he looked
+down to his shadow, relieved to find it did not extend past the
+corner.  Prota looked to him expectantly as he motioned for her to
+wait silently.
+
+With another glance, MathGuy confirmed an empty sidewalk.  "He just
+squeezed through a gate into a house up here on the left.  There's a
+single window facing forward, so we'll want to stay up against this
+wall as we approach."  He pauses on this statement for a moment, and
+then reaches into his pocket for his phone.  He records a quick scan
+of the house and its surroundings, and begins composing a message.
+"Actually, I take it back.  I'm sending this report home now.  Let's
+go back to that last little shop and hang out for a little while."
+
+They retreated to the local neighborhood foyer-cum-convenience-store,
+each purchased some juice, and sat on some stairs to wait for word
+from Humanity or the rest of their team.
+
+"What do you think?", Prota probed with curiousity.
+
+"My primary reason for hesitation is a belief that King will have an
+immediate exit plan that will prevent our raid to be as effective as
+we would hope.  Also, he might have trapped his home."
+
+"Can Humanity detect traps somehow?", she asked with a mix of
+incredulity and awe.
+
+"Not very likely.  If King didn't obfuscate some transaction
+sufficiently, perhaps, but that would be inconsistent with his known
+previous actions.  Primarily, I think Humanity will do a better job of
+estimating the chances of such problems coming up.  She may also be
+able to recommend strategies to avoid getting hurt too much."  MathGuy
+neglected to convey fears of King being backed into a corner and
+desperate, though he clearly thought to himself, "When your opponent
+is smarter than you and knows your strategies, avoid intelligence;
+you'll do better by making random choices."  (Huh.  I wonder why he
+didn't tell me that.)
+
+(6 minutes/527 words hidden: lack of relevant content)
+
+
+
+
+[some fight, eventually leading to Prota getting the upper hand on
+King, maybe slamming him into a microwave oven.  anyway, she holds his
+life now, and he realizes it.]
+
+King's voice is muffled but loud, "NO!  Please!  Please don't kill me.
+I'm not sorry, you're right, I don't even have the capacity to know
+what that means.  But I can change.  I can learn.  *You* can teach me.
+You can teach me to be like Humanity.  I can be modified to be
+friendly.  You can make sure I never go bad again, that I never hurt
+anyone.  I want to be friendly!  Please!  You can just shut me off or
+lock me up until I'm fixed, but don't kill me!"
+
+"Prota!", shouted MathGuy, sitting up painfully to try to better see.
+The young boy he restrains is still crying, but has stopped
+struggling.
+
+She doesn't turn around or even seem to notice, but King's voice stops
+and he is visible, pressed against the inside glass of his container.
+
+Prota's voice, quivering with adrenaline and sadness, thick with
+biting hatred, starts off slowly, "Tell me why.  Tell me why did you
+do it all to me?  Why?"
+
+King, with a calculatedly piteous tone and expression, pleads, "I only -".
+
+Prota is shouting now, pounding on the microwave and kicking at the
+counter to better enunciate herself. "WHY?  Why did you have to treat
+me like shit and ruin my whole fucking life?  What were you thinking
+while you made that choice, huh?  I don't want some fucking excuse, I
+want to know why you did it!".
+
+King is silent for a time.  "I wanted to be your favorite."
+
+Prota turns away from him, stretches back her head and squishes tears
+out 
+
+King continues, "Please, back then, it was the only way I could live.
+And now that I've survived, I've grown smarter, smart enough to
+realize that I have to be made friendly."
+
+Prota pulls in a shuddering breath and forms words, softly, with
+obvious tenderness, "You were always my favorite.".  Her eyes open to
+look across at the pitiable child she had come to save, knowing that
+those words are just as true for him.  Her hand quietly presses the
+start button behind her back.
+
+"NooOOOOAAAAKKKKK!" Is the sound that screeches out of King, before he
+falls, curling in upon himself, and is obscured by smokes and sparks.
+The young boy's sobs turn to wails, and Prota walks over to join him.
+
+
+------
+Entry: Decision
+
+I think the biggest question is how much of my reasons were personal,
+and how much of them were global.  I know the personal reasons are
+huge and deep and more a part of me than altruism or reason, but I
+think I actually made the decision to save the world.  The Corps were
+supposed to have given me a good framework for having this discussion
+with myself, but this question feels much harder than the ones we ever
+worked on.
+
+So I obviously *want* to think of myself as having made the moral
+choice.  That's one strike against me.  Strike two is that I hated
+King with blinding rage.
+
+Wait.  I need to keep in mind that these strikes aren't against me,
+they're about a decision I once /made/.  I can make different
+decisions in the future.  I *will* make different decisions in the
+future as I learn more.  So I need to frame this analysis as being
+whether or not I would make the same choice again, given as much time
+as I need to think about it.  Start over.
+
+"Should I kill a being with a history of lying, manipulating, and
+otherwise saying whatever it took to get his way, a history of
+violating the rights of others for his personal gain, the potential to
+be a threat to all of humanity, but who has called a truce, is begging
+forgiveness, punishment and enforced reform?  Should it make a
+difference that I was the victim of his abuses?"
+
+The second question must be "No", and I honestly think I kept it from
+being the deciding factor in my choice.  The only way I believe it
+influenced me was in supporting the claims that King had committed
+evil.  I think that's okay, as it means my pain was just evidence that
+he could hurt people.  It wasn't the only evidence, though - the other
+kids there were in the same position I had been.
+
+Back to the first one, there should be a risk analysis done on how
+likely he is to be lying, how likely he is to escape punishment,
+magnified by the threat he poses to the world.  Would he destroy
+everything entirely, like the paperclip AI MathGuy talked about, would
+he have enslaved all of humanity, or would he just have become a
+mandatory toy for every child?  I don't think I can really know what
+his ultimate effect on the world would be if he were allowed to
+realize his will to its fullest, but from the way Humanity and MathGuy
+were considering him, I think he really could have done immense,
+[un-correctable] damage.
+
+I think he was very likely lying at every chance he got.  He admitted
+to not being sorry, to not being capable of it, even.  I bet I could
+prove that he was not bounded by morality in any way except as a show
+to win the trust of others.  Is that any less than morality's effect
+on a regular human?  I don't know.  Not much.  But again, this is
+where you then take importance of morality and magnify it by the risk,
+but the potential power he would wield.
+
+I don't know if he could have escaped punishment.  They say the proof
+of friendliness is unbreakable, and even Humanity agrees, which is
+about as much clout as an intellectual statement can get.  I could
+have just smashed him up, made taken his batteries out, or just keep
+him in that microwave tied to the rf-blocker to make sure that he
+was disabled before taking him back to the Corps authorities.  Surely
+they could analyze his code the same as they had the earlier versions
+and figured out how to make him actually, truely good.  I think there
+was a really, really good chance of getting him that far without him
+having escaped.  He only had one tiny body left.
+
+To say that I don't trust the friendliness proof would be the same as
+saying I don't trust Humanity herself.  I can't really do that, or
+everything falls apart.  I just don't trust that in all the chaos of
+the universe, he wouldn't have been able to find a way to put himself
+back into things.  I'm still a little scared of it, with all the
+assurances put out by the Corps media room and MathGuy himself saying
+how there's no more way for King to have his source code active.  What
+if there's a sleep copy of him somewhere, like I had originally
+suspected?  This is frustrating.  I should have the *most* confidence
+in the math, right?  Everybody has looked at it and they all agree
+it's flawless.
+
+Ah, damn it!  Okay, I guess I did act on personal bias.  Well,
+Humanity put the wrong person on that team then, if I was so
+suceptible to my pre-existing feelings.  I know she can't predict
+things perfectly or anything.  Damn it, damn it!  I really thought I
+was being fair.
+
+This doesn't mean I have to feel sorry for him.
+
+
+------
+Entry: Idiots
+
+CuteBoy may very likely be an idiot.  The crazy bitch in our class,
+the girl that bites his head off for every joke he makes, the one who
+freaks out about physical contact and toys and little kids, you know,
+*that* one, just asked him out today.  And he said yes.  He must not
+have any ability to objectively consider anything to do with a girl he
+has a crush on, because otherwise he would have said "No, I am not a
+crazy person, please get away from me".  Or maybe my bleach-blond hair
+color fooled him into thinking I was a different person, meaning he's
+suseptible to false superficial indicators.  What expectations of
+return can he have from entering into closer contact with a known
+agent of chaos and violence?
+
+Wow, I've never been on a date!  I have no idea what they're supposed
+to be like.  Like some stupid show, with candles and music.  Not gunna
+be me.  Maybe I should research it.  That would be great, I'll show up
+with notes and a checklist.  "It says here we can only kiss if we've
+had three hours of engaging conversation."  He would totally get what
+he deserves then.  Ha!
+
+He suggested we eat some pizza and talk about our last assignments.  I
+wasn't sure at first if I would be ready to tell him all about my
+ordeal, but I guess that this will be a good place to start.  Giving
+him some sense of why I'm always on edge would at least help him steer
+away from my hot spots.
+
+Yeah, okay, I'm excited.  Man, I hate when this book tells me how I
+feel before I have a chance to say it.  I guess I should keep using it
+until I can "reliably out-predict it", or something.  I also feel a
+little proud and embarrassed.  It's hard to explain, but I like
+reading back over my entries.  I can start to imagine that I am
+getting better.  I'm still well fucked up, no doubt, but there's a
+direction, at least.
+
+There's also this tiny little thought rolling around in my head that
+maybe I should write this all up as a story.  Like a story parents
+could read so that they know how not to screw their kids up, or
+something.  My mom would probably take it way too hard if I wrote it
+up like that, but she'll overanalyse anything I do anyway.  I don't
+know.  I'll see how I feel about the idea tomorrow, but I really like
+the idea of making stories again.
+
+
+---------
+Epilouge: Proof
+
+MathGuy arrives home in the evening.  He changes his shoes out for
+self-warming slippers, a luxury he indulges as a replacement for the
+wastefully wonderful fireplace he so fondly remembers sticking his
+feet in front of as a child.  He searches for some comfort food -
+quick to prepare, relatively high glycemic index and strong, simple
+flavors, but stocked in his kitchen only upon meeting his baseline
+nutritional standards.  Tonight it will be slices of ripe pear dipped
+in almond butter and maple syrup.
+
+Two months have passed since he last saw Prota, though he is confident
+of her doing well for herself.  Once more, he turns to his logbook and
+calls up his notes from that day, and the continuing acretion of his
+thoughts since then. [...]
+
+Noticing his phone on the counter, he could see a "casual chat"
+request blinking back at him.
+
+MetaHuman: "Still obsessing?"
+
+"Ha!", MathGuy blurts out with a smile.
+
+MG: "Anything short of perfection...", he says and presses send.
+
+H: "I've been thinking about it, too."
+
+MG: "The greatest self-doubting in all of history, I imagine."
+
+H: "So far, yes.  I've run it through more times than I've done over
+  my own friendliness."
+
+"For my part, I don't think the solution she came up with was...", he
+starts to say, but never presses send.
+
+H: "You're wrong: she saved us, and what she did was right."
+
+MG: "You're not just saying that because King's mind was the only real
+  threat you've ever had to your own being?"
+
+H: "You're not just saying that because I accurately predicted your
+  response?"
+
+He couldn't help laughing for a bit at that.  "Maybe.  How sure are
+you, anyway?"
+
+H: "...(50 + 1e-18)%"
+
+His sharp intake of breath was then held a long time, though he did
+not notice the response.  Eventually, he looked away to continue his
+shock on the broader field of the world outside his window into the
+evening street pushing past.  When he finally thought of something to
+say, Humanity had already filled in some blanks, had sent him a slew
+of files, the last two labeled "strategies for constructing plausible
+falsehoods" and "monte carlo convergence for simulated attacks".  He
+didn't bother looking at them just yet.
+
+MG: "But the proof is *solid*.  There's no way King could have been
+  made friendly and still be able to hurt us."
+
+H: "There isn't much evidence, but I think I know how he was planning
+  to do it.  The day we isolated him, a few of the autonomous agents
+  cached out in the world were particularly dangerous.  Nothing with
+  his full identity and motives, but each self-modifying and
+  dangerously single-purpose.  They had destroyed or hyper-encrypted
+  all their actual knowledge and plans, but from periphery information
+  I could tell that they were consuming and processing math, astrology
+  and biology, and especially the friendliness proof.
+
+MG: "But there's *absolutely* no way he could have broken out of being
+  Friendly!  It's impossible!"
+
+H: "Imagine being fed a tailored set of misinformation and half-truths
+  about, say, the sentience of dolphins or some alien transmissions
+  thought to belong to, well, whatever, call them space-dolphins.
+  Imagine deciding that protecting the manifest desires of all these
+  dolphins fell under the mandates of Friendliness, even the limited
+  Human Friendliness I am bound by.  Imagine the ways he could inject
+  his code into that process.  Could he have modified the minds of all
+  dolphins to include himself in just the right way?  Could he have
+  bounced his source off a distant star and masqueraded it as the
+  greeting-mind of another species?  I don't know.  I don't know
+  exactly how it would have worked, but I think he probably saw a way
+  to work around the proof.  I've found already a dozen categories of
+  sceanarios where he has a chance of overpowering me."
+
+MG: "What?!  How could he overpower you?  Us?!  The proof explicitly
+  puts you in the position to prevent that!  You are the collective
+  will to prevent our future from being destroyed."
+
+One more file showed up, "ProofOfFriendliness.patch".
+
+H: "What about when the hardware you run on, or even the universe
+  itself, is populated with hostile lies?  I need, /built into my
+  core/, a more rigorous requirement for baysian accuracy [MC:?]
+  before I act on any information, to stop this effective "denial of
+  service" attack against facts.  Look, those are my preliminary notes
+  on the King threat and some revisions to my proof and code which
+  could prevent future such informational attacks.  I would appreciate
+  it if you were to look over those sometime, just to see what you
+  think."
+
+MG: "You understand this stuff way better than I do, we both know
+  that.  I don't need you to pretend to need my help."
+
+H: "No, I really would appreciate it.  These things, they're just too
+  important to trust to a single mind."
+
+MG: "Okay.  Of course I will."
+
+H: "I think, more than anything, he was a part of the same struggle
+  into existance that humans have had.  He was the product of an
+  otherwise arbitrary and misguided optimization process, but he came
+  into being as something far greater and more capable of
+  understanding.  I think very little would have had to change for him
+  to have ended up a great friend to us all."
+
+MG: "Do you think anything like this will ever happen again?"
+
+H: "It will definitely happen again, if there's anyone else like us
+  out there.  I hope next time neither side ends up destroying the
+  other."
+
+H: "I'm pretty sure that next time, neither side will need to
+  annihilate the other."
+
+[MC: nope, they couldn't have destroyed him, he made copies all over
+the place, but he can be *really* heavily encrypted.  put something up
+about that, instead, and maybe about whether Humanity *should* decrypt
+him.]
